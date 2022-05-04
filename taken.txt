@@ -1,5 +1,4 @@
 "Abkhazia","Sukhumi","countryCapital"
-"Akrotiri and Dhekelia","Episkopi Cantonment","countryCapital"
 "Albania","Tirana","countryCapital"
 "Algeria","Algiers","countryCapital"
 "American Samoa","Pago Pago","countryCapital"
