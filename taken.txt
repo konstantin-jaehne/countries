@@ -1,5 +1,4 @@
 "Abkhazia","Sukhumi","countryCapital"
-"Andorra","Andorra la Vella","countryCapital"
 "Angola","Luanda","countryCapital"
 "Anguilla","The Valley","countryCapital"
 "Antigua and Barbuda","St. John's","countryCapital"
