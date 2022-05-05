@@ -10,7 +10,6 @@
 "Argentina","Buenos Aires","countryCapital"
 "Armenia","Yerevan","countryCapital"
 "Aruba","Oranjestad","countryCapital"
-"Ascension Island","Georgetown","countryCapital"
 "Australia","Canberra","countryCapital"
 "Austria","Vienna","countryCapital"
 "Azerbaijan","Baku","countryCapital"
