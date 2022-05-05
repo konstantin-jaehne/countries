@@ -219,7 +219,6 @@
 "Tanzania","Dodoma","countryCapital"
 "Thailand","Bangkok","countryCapital"
 "Togo","Lomé","countryCapital"
-"Tonga","Nukuʻalofa","countryCapital"
 "Transnistria","Tiraspol","countryCapital"
 "Trinidad and Tobago","Port of Spain","countryCapital"
 "Tristan da Cunha","Edinburgh of the Seven Seas","countryCapital"
