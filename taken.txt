@@ -46,7 +46,6 @@
 "Christmas Island","Flying Fish Cove","countryCapital"
 "Cocos (Keeling) Islands","West Island","countryCapital"
 "Colombia","Bogotá","countryCapital"
-"Comoros","Moroni","countryCapital"
 "Cook Islands","Avarua","countryCapital"
 "Costa Rica","San José","countryCapital"
 "Croatia","Zagreb","countryCapital"
