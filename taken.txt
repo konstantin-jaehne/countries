@@ -184,7 +184,6 @@
 "Saint Vincent and the Grenadines","Kingstown","countryCapital"
 "Samoa","Apia","countryCapital"
 "San Marino","San Marino","countryCapital"
-"Saudi Arabia","Riyadh","countryCapital"
 "Scotland","Edinburgh","countryCapital"
 "Senegal","Dakar","countryCapital"
 "Serbia","Belgrade","countryCapital"
