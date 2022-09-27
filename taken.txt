@@ -168,6 +168,7 @@
 "Papua New Guinea","Port Moresby","countryCapital"
 "Paraguay","Asunción","countryCapital"
 "Peru","Lima","countryCapital"
+"Philippines","Manila","countryCapital"
 "Pitcairn Islands","Adamstown","countryCapital"
 "Poland","Warsaw","countryCapital"
 "Portugal","Lisbon","countryCapital"
