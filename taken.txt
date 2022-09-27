@@ -225,7 +225,6 @@
 "Tristan da Cunha","Edinburgh of the Seven Seas","countryCapital"
 "Tunisia","Tunis","countryCapital"
 "Turkey","Ankara","countryCapital"
-"Turkmenistan","Ashgabat","countryCapital"
 "Turks and Caicos Islands","Cockburn Town","countryCapital"
 "Tuvalu","Funafuti","countryCapital"
 "Uganda","Kampala","countryCapital"
