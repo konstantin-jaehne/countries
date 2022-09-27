@@ -151,7 +151,6 @@
 "Nicaragua","Managua","countryCapital"
 "Niger","Niamey","countryCapital"
 "Nigeria","Abuja","countryCapital"
-"Niue","Alofi","countryCapital"
 "Norfolk Island","Kingston","countryCapital"
 "North Korea","Pyongyang","countryCapital"
 "Northern Cyprus","Nicosia","countryCapital"
