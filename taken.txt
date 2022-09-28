@@ -193,7 +193,6 @@
 "Singapore","Singapore","countryCapital"
 "Sint Maarten","Philipsburg","countryCapital"
 "Slovakia","Bratislava","countryCapital"
-"Slovenia","Ljubljana","countryCapital"
 "Solomon Islands","Honiara","countryCapital"
 "Somalia","Mogadishu","countryCapital"
 "Somaliland","Hargeisa","countryCapital"
