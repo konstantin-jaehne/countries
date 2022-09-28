@@ -198,7 +198,6 @@
 "Somaliland","Hargeisa","countryCapital"
 "South Africa","Pretoria","countryCapital"
 "South Georgia and the South Sandwich Islands","Grytviken","countryCapital"
-"South Korea","Seoul","countryCapital"
 "South Ossetia","Tskhinvali","countryCapital"
 "South Sudan","Juba","countryCapital"
 "Spain","Madrid","countryCapital"
