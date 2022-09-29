@@ -112,7 +112,6 @@
 "Kiribati","Tarawa","countryCapital"
 "Kosovo","Pristina","countryCapital"
 "Kuwait","Kuwait City","countryCapital"
-"Kyrgyzstan","Bishkek","countryCapital"
 "Laos","Vientiane","countryCapital"
 "Latvia","Riga","countryCapital"
 "Lebanon","Beirut","countryCapital"
