@@ -48,7 +48,6 @@
 "Colombia","Bogotá","countryCapital"
 "Comoros","Moroni","countryCapital"
 "Cook Islands","Avarua","countryCapital"
-"Costa Rica","San José","countryCapital"
 "Croatia","Zagreb","countryCapital"
 "Cuba","Havana","countryCapital"
 "Curaçao","Willemstad","countryCapital"
