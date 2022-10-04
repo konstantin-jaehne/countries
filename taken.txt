@@ -49,7 +49,6 @@
 "Comoros","Moroni","countryCapital"
 "Cook Islands","Avarua","countryCapital"
 "Croatia","Zagreb","countryCapital"
-"Cuba","Havana","countryCapital"
 "Curaçao","Willemstad","countryCapital"
 "Cyprus","Nicosia","countryCapital"
 "Czech Republic","Prague","countryCapital"
