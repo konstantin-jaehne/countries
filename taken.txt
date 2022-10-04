@@ -68,7 +68,6 @@
 "Ethiopia","Addis Ababa","countryCapital"
 "Falkland Islands","Stanley","countryCapital"
 "Faroe Islands","Tórshavn","countryCapital"
-"Federated States of Micronesia","Palikir","countryCapital"
 "Fiji","Suva","countryCapital"
 "Finland","Helsinki","countryCapital"
 "France","Paris","countryCapital"
