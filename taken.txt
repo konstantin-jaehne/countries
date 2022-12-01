@@ -142,7 +142,6 @@
 "Nauru","Yaren","countryCapital"
 "Nepal","Kathmandu","countryCapital"
 "Netherlands","Amsterdam","countryCapital"
-"New Caledonia","Nouméa","countryCapital"
 "New Zealand","Wellington","countryCapital"
 "Nicaragua","Managua","countryCapital"
 "Niger","Niamey","countryCapital"
