@@ -143,7 +143,6 @@
 "Nepal","Kathmandu","countryCapital"
 "Netherlands","Amsterdam","countryCapital"
 "New Zealand","Wellington","countryCapital"
-"Nicaragua","Managua","countryCapital"
 "Niger","Niamey","countryCapital"
 "Nigeria","Abuja","countryCapital"
 "Norfolk Island","Kingston","countryCapital"
