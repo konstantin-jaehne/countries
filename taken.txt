@@ -217,7 +217,6 @@
 "United Arab Emirates","Abu Dhabi","countryCapital"
 "United Kingdom; England","London","countryCapital"
 "United States","Washington, D.C.","countryCapital"
-"United States Virgin Islands","Charlotte Amalie","countryCapital"
 "Uruguay","Montevideo","countryCapital"
 "Uzbekistan","Tashkent","countryCapital"
 "Vanuatu","Port Vila","countryCapital"
