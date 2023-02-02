@@ -86,7 +86,6 @@
 "Guatemala","Guatemala City","countryCapital"
 "Guernsey","St. Peter Port","countryCapital"
 "Guinea","Conakry","countryCapital"
-"Guinea-Bissau","Bissau","countryCapital"
 "Guyana","Georgetown","countryCapital"
 "Haiti","Port-au-Prince","countryCapital"
 "Honduras","Tegucigalpa","countryCapital"
