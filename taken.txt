@@ -205,7 +205,6 @@
 "Togo","Lomé","countryCapital"
 "Tonga","Nukuʻalofa","countryCapital"
 "Transnistria","Tiraspol","countryCapital"
-"Trinidad and Tobago","Port of Spain","countryCapital"
 "Tristan da Cunha","Edinburgh of the Seven Seas","countryCapital"
 "Tunisia","Tunis","countryCapital"
 "Turkey","Ankara","countryCapital"
