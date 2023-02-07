@@ -217,6 +217,5 @@
 "Vietnam","Hanoi","countryCapital"
 "Wales","Cardiff","countryCapital"
 "Wallis and Futuna","Mata-Utu","countryCapital"
-"Western Sahara","El Aaiún","countryCapital"
 "Yemen","Sanaá","countryCapital"
 "Zambia","Lusaka","countryCapital"
