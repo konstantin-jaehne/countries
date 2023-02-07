@@ -42,7 +42,6 @@
 "Chile","Santiago","countryCapital"
 "China","Beijing","countryCapital"
 "Christmas Island","Flying Fish Cove","countryCapital"
-"Cocos (Keeling) Islands","West Island","countryCapital"
 "Colombia","Bogotá","countryCapital"
 "Comoros","Moroni","countryCapital"
 "Cook Islands","Avarua","countryCapital"
