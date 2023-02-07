@@ -44,7 +44,6 @@
 "Christmas Island","Flying Fish Cove","countryCapital"
 "Colombia","Bogotá","countryCapital"
 "Comoros","Moroni","countryCapital"
-"Cook Islands","Avarua","countryCapital"
 "Croatia","Zagreb","countryCapital"
 "Curaçao","Willemstad","countryCapital"
 "Cyprus","Nicosia","countryCapital"
