@@ -159,7 +159,6 @@
 "Portugal","Lisbon","countryCapital"
 "Puerto Rico","San Juan","countryCapital"
 "Qatar","Doha","countryCapital"
-"Republic of China (Taiwan)","Taipei","countryCapital"
 "Romania","Bucharest","countryCapital"
 "Russia","Moscow","countryCapital"
 "Rwanda","Kigali","countryCapital"
