@@ -173,7 +173,6 @@
 "Serbia","Belgrade","countryCapital"
 "Seychelles","Victoria","countryCapital"
 "Sierra Leone","Freetown","countryCapital"
-"Singapore","Singapore","countryCapital"
 "Sint Maarten","Philipsburg","countryCapital"
 "Slovakia","Bratislava","countryCapital"
 "Solomon Islands","Honiara","countryCapital"
