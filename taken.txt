@@ -130,7 +130,6 @@
 "Myanmar","Naypyidaw","countryCapital"
 "Nagorno-Karabakh Republic","Stepanakert","countryCapital"
 "Namibia","Windhoek","countryCapital"
-"Nauru","Yaren","countryCapital"
 "Nepal","Kathmandu","countryCapital"
 "Netherlands","Amsterdam","countryCapital"
 "New Zealand","Wellington","countryCapital"
