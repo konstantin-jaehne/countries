@@ -131,7 +131,6 @@
 "Oman","Muscat","countryCapital"
 "Pakistan","Islamabad","countryCapital"
 "Palau","Ngerulmud","countryCapital"
-"Palestine","Jerusalem","countryCapital"
 "Panama","Panama City","countryCapital"
 "Paraguay","Asunción","countryCapital"
 "Peru","Lima","countryCapital"
