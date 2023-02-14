@@ -29,7 +29,6 @@
 "Burundi","Bujumbura","countryCapital"
 "Cambodia","Phnom Penh","countryCapital"
 "Cameroon","Yaoundé","countryCapital"
-"Canada","Ottawa","countryCapital"
 "Cape Verde","Praia","countryCapital"
 "Cayman Islands","George Town","countryCapital"
 "Central African Republic","Bangui","countryCapital"
