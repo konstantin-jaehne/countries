@@ -70,7 +70,6 @@
 "Georgia","Tbilisi","countryCapital"
 "Germany","Berlin","countryCapital"
 "Ghana","Accra","countryCapital"
-"Greece","Athens","countryCapital"
 "Greenland","Nuuk","countryCapital"
 "Grenada","St. George's","countryCapital"
 "Guam","Hagåtña","countryCapital"
