@@ -142,7 +142,6 @@
 "Peru","Lima","countryCapital"
 "Philippines","Manila","countryCapital"
 "Pitcairn Islands","Adamstown","countryCapital"
-"Poland","Warsaw","countryCapital"
 "Portugal","Lisbon","countryCapital"
 "Puerto Rico","San Juan","countryCapital"
 "Qatar","Doha","countryCapital"
