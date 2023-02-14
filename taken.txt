@@ -1,5 +1,4 @@
 "Abkhazia","Sukhumi","countryCapital"
-"Afghanistan","Kabul","countryCapital"
 "Akrotiri and Dhekelia","Episkopi Cantonment","countryCapital"
 "Albania","Tirana","countryCapital"
 "Algeria","Algiers","countryCapital"
