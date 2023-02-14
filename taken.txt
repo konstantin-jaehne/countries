@@ -94,7 +94,6 @@
 "Kenya","Nairobi","countryCapital"
 "Kiribati","Tarawa","countryCapital"
 "Kosovo","Pristina","countryCapital"
-"Kuwait","Kuwait City","countryCapital"
 "Laos","Vientiane","countryCapital"
 "Latvia","Riga","countryCapital"
 "Lebanon","Beirut","countryCapital"
