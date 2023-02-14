@@ -171,7 +171,6 @@
 "Vatican City","Vatican City","countryCapital"
 "Venezuela","Caracas","countryCapital"
 "Vietnam","Hanoi","countryCapital"
-"Wales","Cardiff","countryCapital"
 "Wallis and Futuna","Mata-Utu","countryCapital"
 "Yemen","Sanaá","countryCapital"
 "Zambia","Lusaka","countryCapital"
