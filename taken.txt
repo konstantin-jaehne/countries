@@ -145,7 +145,6 @@
 "Sierra Leone","Freetown","countryCapital"
 "Sint Maarten","Philipsburg","countryCapital"
 "Slovakia","Bratislava","countryCapital"
-"Solomon Islands","Honiara","countryCapital"
 "Somalia","Mogadishu","countryCapital"
 "Somaliland","Hargeisa","countryCapital"
 "South Africa","Pretoria","countryCapital"
