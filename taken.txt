@@ -127,7 +127,6 @@
 "Nepal","Kathmandu","countryCapital"
 "Netherlands","Amsterdam","countryCapital"
 "Niger","Niamey","countryCapital"
-"Nigeria","Abuja","countryCapital"
 "Norfolk Island","Kingston","countryCapital"
 "North Korea","Pyongyang","countryCapital"
 "Northern Cyprus","Nicosia","countryCapital"
