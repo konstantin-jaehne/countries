@@ -37,7 +37,6 @@
 "China","Beijing","countryCapital"
 "Christmas Island","Flying Fish Cove","countryCapital"
 "Colombia","Bogotá","countryCapital"
-"Comoros","Moroni","countryCapital"
 "Curaçao","Willemstad","countryCapital"
 "Cyprus","Nicosia","countryCapital"
 "Czech Republic","Prague","countryCapital"
