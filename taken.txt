@@ -162,7 +162,6 @@
 "Scotland","Edinburgh","countryCapital"
 "Senegal","Dakar","countryCapital"
 "Serbia","Belgrade","countryCapital"
-"Seychelles","Victoria","countryCapital"
 "Sierra Leone","Freetown","countryCapital"
 "Sint Maarten","Philipsburg","countryCapital"
 "Slovakia","Bratislava","countryCapital"
