@@ -13,7 +13,6 @@
 "Australia","Canberra","countryCapital"
 "Austria","Vienna","countryCapital"
 "Azerbaijan","Baku","countryCapital"
-"Bahamas","Nassau","countryCapital"
 "Bahrain","Manama","countryCapital"
 "Bangladesh","Dhaka","countryCapital"
 "Belarus","Minsk","countryCapital"
