@@ -50,7 +50,6 @@
 "Egypt","Cairo","countryCapital"
 "El Salvador","San Salvador","countryCapital"
 "Equatorial Guinea","Malabo","countryCapital"
-"Eritrea","Asmara","countryCapital"
 "Falkland Islands","Stanley","countryCapital"
 "Faroe Islands","Tórshavn","countryCapital"
 "Fiji","Suva","countryCapital"
