@@ -113,7 +113,6 @@
 "Maldives","Malé","countryCapital"
 "Mali","Bamako","countryCapital"
 "Malta","Valletta","countryCapital"
-"Mauritania","Nouakchott","countryCapital"
 "Mauritius","Port Louis","countryCapital"
 "Mexico","Mexico City","countryCapital"
 "Moldova","Chisinau","countryCapital"
