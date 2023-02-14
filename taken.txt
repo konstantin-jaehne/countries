@@ -88,7 +88,6 @@
 "Lebanon","Beirut","countryCapital"
 "Lesotho","Maseru","countryCapital"
 "Libya","Tripoli","countryCapital"
-"Macedonia","Skopje","countryCapital"
 "Madagascar","Antananarivo","countryCapital"
 "Malawi","Lilongwe","countryCapital"
 "Malaysia","Kuala Lumpur","countryCapital"
