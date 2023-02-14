@@ -97,7 +97,6 @@
 "Liberia","Monrovia","countryCapital"
 "Libya","Tripoli","countryCapital"
 "Liechtenstein","Vaduz","countryCapital"
-"Lithuania","Vilnius","countryCapital"
 "Macedonia","Skopje","countryCapital"
 "Madagascar","Antananarivo","countryCapital"
 "Malawi","Lilongwe","countryCapital"
