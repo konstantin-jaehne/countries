@@ -60,7 +60,6 @@
 "Faroe Islands","Tórshavn","countryCapital"
 "Fiji","Suva","countryCapital"
 "Finland","Helsinki","countryCapital"
-"France","Paris","countryCapital"
 "French Guiana","Cayenne","countryCapital"
 "French Polynesia","Papeete","countryCapital"
 "Gabon","Libreville","countryCapital"
