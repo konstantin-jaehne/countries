@@ -166,7 +166,6 @@
 "Swaziland","Mbabane","countryCapital"
 "Sweden","Stockholm","countryCapital"
 "Syria","Damascus","countryCapital"
-"Tajikistan","Dushanbe","countryCapital"
 "Tanzania","Dodoma","countryCapital"
 "Thailand","Bangkok","countryCapital"
 "Togo","Lomé","countryCapital"
