@@ -150,7 +150,6 @@
 "Romania","Bucharest","countryCapital"
 "Russia","Moscow","countryCapital"
 "Rwanda","Kigali","countryCapital"
-"Saint Barthélemy","Gustavia","countryCapital"
 "Saint Helena","Jamestown","countryCapital"
 "Saint Kitts and Nevis","Basseterre","countryCapital"
 "Saint Lucia","Castries","countryCapital"
