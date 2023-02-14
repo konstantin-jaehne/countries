@@ -95,7 +95,6 @@
 "Malaysia","Kuala Lumpur","countryCapital"
 "Maldives","Malé","countryCapital"
 "Mali","Bamako","countryCapital"
-"Malta","Valletta","countryCapital"
 "Mauritius","Port Louis","countryCapital"
 "Mexico","Mexico City","countryCapital"
 "Moldova","Chisinau","countryCapital"
