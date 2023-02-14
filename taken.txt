@@ -135,7 +135,6 @@
 "Saint Lucia","Castries","countryCapital"
 "Saint Martin","Marigot","countryCapital"
 "Saint Pierre and Miquelon","St. Pierre","countryCapital"
-"Saint Vincent and the Grenadines","Kingstown","countryCapital"
 "Samoa","Apia","countryCapital"
 "Saudi Arabia","Riyadh","countryCapital"
 "Scotland","Edinburgh","countryCapital"
