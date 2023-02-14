@@ -73,7 +73,6 @@
 "Guam","Hagåtña","countryCapital"
 "Guernsey","St. Peter Port","countryCapital"
 "Guinea","Conakry","countryCapital"
-"Guyana","Georgetown","countryCapital"
 "Haiti","Port-au-Prince","countryCapital"
 "Honduras","Tegucigalpa","countryCapital"
 "Hungary","Budapest","countryCapital"
