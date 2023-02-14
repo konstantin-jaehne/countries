@@ -20,7 +20,6 @@
 "Belize","Belmopan","countryCapital"
 "Benin","Porto-Novo","countryCapital"
 "Bermuda","Hamilton","countryCapital"
-"Bhutan","Thimphu","countryCapital"
 "Bolivia","La Paz","countryCapital"
 "Bosnia and Herzegovina","Sarajevo","countryCapital"
 "Botswana","Gaborone","countryCapital"
