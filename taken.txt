@@ -83,7 +83,6 @@
 "Indonesia","Jakarta","countryCapital"
 "Iran","Tehran","countryCapital"
 "Iraq","Baghdad","countryCapital"
-"Ireland","Dublin","countryCapital"
 "Isle of Man","Douglas","countryCapital"
 "Israel","Jerusalem","countryCapital"
 "Italy","Rome","countryCapital"
