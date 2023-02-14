@@ -129,7 +129,6 @@
 "Namibia","Windhoek","countryCapital"
 "Nepal","Kathmandu","countryCapital"
 "Netherlands","Amsterdam","countryCapital"
-"New Zealand","Wellington","countryCapital"
 "Niger","Niamey","countryCapital"
 "Nigeria","Abuja","countryCapital"
 "Norfolk Island","Kingston","countryCapital"
