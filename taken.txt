@@ -106,7 +106,6 @@
 "Myanmar","Naypyidaw","countryCapital"
 "Nagorno-Karabakh Republic","Stepanakert","countryCapital"
 "Namibia","Windhoek","countryCapital"
-"Nepal","Kathmandu","countryCapital"
 "Netherlands","Amsterdam","countryCapital"
 "Niger","Niamey","countryCapital"
 "Norfolk Island","Kingston","countryCapital"
