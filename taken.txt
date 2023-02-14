@@ -87,7 +87,6 @@
 "Latvia","Riga","countryCapital"
 "Lebanon","Beirut","countryCapital"
 "Lesotho","Maseru","countryCapital"
-"Liberia","Monrovia","countryCapital"
 "Libya","Tripoli","countryCapital"
 "Macedonia","Skopje","countryCapital"
 "Madagascar","Antananarivo","countryCapital"
