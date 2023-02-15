@@ -71,7 +71,6 @@
 "Honduras","Tegucigalpa","countryCapital"
 "Iceland","Reykjavík","countryCapital"
 "India","New Delhi","countryCapital"
-"Indonesia","Jakarta","countryCapital"
 "Iran","Tehran","countryCapital"
 "Iraq","Baghdad","countryCapital"
 "Ireland","Dublin","countryCapital"
