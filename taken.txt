@@ -26,7 +26,6 @@
 "Bulgaria","Sofia","countryCapital"
 "Burkina Faso","Ouagadougou","countryCapital"
 "Burundi","Bujumbura","countryCapital"
-"Cambodia","Phnom Penh","countryCapital"
 "Canada","Ottawa","countryCapital"
 "Cape Verde","Praia","countryCapital"
 "Central African Republic","Bangui","countryCapital"
