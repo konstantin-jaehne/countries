@@ -23,7 +23,6 @@
 "Botswana","Gaborone","countryCapital"
 "Brazil","Brasília","countryCapital"
 "Brunei","Bandar Seri Begawan","countryCapital"
-"Bulgaria","Sofia","countryCapital"
 "Burkina Faso","Ouagadougou","countryCapital"
 "Burundi","Bujumbura","countryCapital"
 "Canada","Ottawa","countryCapital"
