@@ -164,7 +164,6 @@
 "South Sudan","Juba","countryCapital"
 "Spain","Madrid","countryCapital"
 "Sri Lanka","Sri Jayawardenapura Kotte","countryCapital"
-"Sudan","Khartoum","countryCapital"
 "Suriname","Paramaribo","countryCapital"
 "Swaziland","Mbabane","countryCapital"
 "Sweden","Stockholm","countryCapital"
