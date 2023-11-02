@@ -101,7 +101,6 @@
 "Mexico","Mexico City","countryCapital"
 "Moldova","Chisinau","countryCapital"
 "Monaco","Monaco","countryCapital"
-"Mongolia","Ulaanbaatar","countryCapital"
 "Morocco","Rabat","countryCapital"
 "Mozambique","Maputo","countryCapital"
 "Myanmar","Naypyidaw","countryCapital"
