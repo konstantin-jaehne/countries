@@ -21,7 +21,6 @@
 "Bosnia and Herzegovina","Sarajevo","countryCapital"
 "Botswana","Gaborone","countryCapital"
 "Brazil","Brasília","countryCapital"
-"Brunei","Bandar Seri Begawan","countryCapital"
 "Burkina Faso","Ouagadougou","countryCapital"
 "Burundi","Bujumbura","countryCapital"
 "Canada","Ottawa","countryCapital"
