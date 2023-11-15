@@ -67,7 +67,6 @@
 "India","New Delhi","countryCapital"
 "Iran","Tehran","countryCapital"
 "Iraq","Baghdad","countryCapital"
-"Ireland","Dublin","countryCapital"
 "Israel","Jerusalem","countryCapital"
 "Italy","Rome","countryCapital"
 "Jamaica","Kingston","countryCapital"
