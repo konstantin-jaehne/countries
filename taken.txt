@@ -18,7 +18,6 @@
 "Benin","Porto-Novo","countryCapital"
 "Bhutan","Thimphu","countryCapital"
 "Bolivia","Sucre","countryCapital"
-"Bosnia and Herzegovina","Sarajevo","countryCapital"
 "Botswana","Gaborone","countryCapital"
 "Brazil","Brasília","countryCapital"
 "Burkina Faso","Ouagadougou","countryCapital"
