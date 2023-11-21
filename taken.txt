@@ -159,7 +159,6 @@
 "Slovenia","Ljubljana","countryCapital"
 "Solomon Islands","Honiara","countryCapital"
 "Somalia","Mogadishu","countryCapital"
-"South Africa","Pretoria","countryCapital"
 "South Korea","Seoul","countryCapital"
 "South Sudan","Juba","countryCapital"
 "Spain","Madrid","countryCapital"
