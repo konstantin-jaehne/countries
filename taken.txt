@@ -160,7 +160,6 @@
 "Solomon Islands","Honiara","countryCapital"
 "Somalia","Mogadishu","countryCapital"
 "South Korea","Seoul","countryCapital"
-"South Sudan","Juba","countryCapital"
 "Spain","Madrid","countryCapital"
 "Sri Lanka","Sri Jayawardenapura Kotte","countryCapital"
 "Sudan","Khartoum","countryCapital"
