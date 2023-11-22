@@ -158,7 +158,6 @@
 "Somalia","Mogadishu","countryCapital"
 "South Korea","Seoul","countryCapital"
 "Spain","Madrid","countryCapital"
-"Sri Lanka","Sri Jayawardenapura Kotte","countryCapital"
 "Sudan","Khartoum","countryCapital"
 "Suriname","Paramaribo","countryCapital"
 "Swaziland","Mbabane","countryCapital"
