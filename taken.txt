@@ -154,7 +154,6 @@
 "Slovakia","Bratislava","countryCapital"
 "Slovenia","Ljubljana","countryCapital"
 "Solomon Islands","Honiara","countryCapital"
-"Somalia","Mogadishu","countryCapital"
 "South Korea","Seoul","countryCapital"
 "Spain","Madrid","countryCapital"
 "Sudan","Khartoum","countryCapital"
