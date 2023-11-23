@@ -61,7 +61,6 @@
 "Gambia","Banjul","countryCapital"
 "Georgia","Tbilisi","countryCapital"
 "Germany","Berlin","countryCapital"
-"Ghana","Accra","countryCapital"
 "Greece","Athens","countryCapital"
 "Grenada","St. George's","countryCapital"
 "Guatemala","Guatemala City","countryCapital"
