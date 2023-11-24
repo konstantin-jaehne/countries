@@ -88,7 +88,6 @@
 "Laos","Vientiane","countryCapital"
 "Latvia","Riga","countryCapital"
 "Lebanon","Beirut","countryCapital"
-"Lesotho","Maseru","countryCapital"
 "Liberia","Monrovia","countryCapital"
 "Libya","Tripoli","countryCapital"
 "Lithuania","Vilnius","countryCapital"
