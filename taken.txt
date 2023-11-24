@@ -92,7 +92,6 @@
 "Lesotho","Maseru","countryCapital"
 "Liberia","Monrovia","countryCapital"
 "Libya","Tripoli","countryCapital"
-"Liechtenstein","Vaduz","countryCapital"
 "Lithuania","Vilnius","countryCapital"
 "Luxembourg","Luxembourg","countryCapital"
 "Macedonia","Skopje","countryCapital"
