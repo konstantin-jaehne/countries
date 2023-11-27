@@ -70,7 +70,6 @@
 "Honduras","Tegucigalpa","countryCapital"
 "Hungary","Budapest","countryCapital"
 "Iceland","Reykjavík","countryCapital"
-"Indonesia","Jakarta","countryCapital"
 "Iran","Tehran","countryCapital"
 "Iraq","Baghdad","countryCapital"
 "Ireland","Dublin","countryCapital"
