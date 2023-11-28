@@ -71,7 +71,6 @@
 "Iran","Tehran","countryCapital"
 "Iraq","Baghdad","countryCapital"
 "Israel","Jerusalem","countryCapital"
-"Italy","Rome","countryCapital"
 "Jamaica","Kingston","countryCapital"
 "Japan","Tokyo","countryCapital"
 "Jordan","Amman","countryCapital"
