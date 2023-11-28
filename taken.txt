@@ -160,7 +160,6 @@
 "Tunisia","Tunis","countryCapital"
 "Turkey","Ankara","countryCapital"
 "Turkmenistan","Ashgabat","countryCapital"
-"Tuvalu","Funafuti","countryCapital"
 "Uganda","Kampala","countryCapital"
 "Ukraine","Kiev","countryCapital"
 "United Arab Emirates","Abu Dhabi","countryCapital"
