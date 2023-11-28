@@ -50,7 +50,6 @@
 "Equatorial Guinea","Malabo","countryCapital"
 "Eritrea","Asmara","countryCapital"
 "Estonia","Tallinn","countryCapital"
-"Ethiopia","Addis Ababa","countryCapital"
 "Federated States of Micronesia","Palikir","countryCapital"
 "Fiji","Suva","countryCapital"
 "Finland","Helsinki","countryCapital"
