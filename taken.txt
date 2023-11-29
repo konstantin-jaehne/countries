@@ -32,7 +32,6 @@
 "Chad","N'Djamena","countryCapital"
 "Chile","Santiago","countryCapital"
 "China","Beijing","countryCapital"
-"Colombia","Bogotá","countryCapital"
 "Comoros","Moroni","countryCapital"
 "Costa Rica","San José","countryCapital"
 "Croatia","Zagreb","countryCapital"
