@@ -14,7 +14,6 @@
 "Bangladesh","Dhaka","countryCapital"
 "Barbados","Bridgetown","countryCapital"
 "Belarus","Minsk","countryCapital"
-"Belgium","Brussels","countryCapital"
 "Belize","Belmopan","countryCapital"
 "Benin","Porto-Novo","countryCapital"
 "Bhutan","Thimphu","countryCapital"
