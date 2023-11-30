@@ -80,7 +80,6 @@
 "Kyrgyzstan","Bishkek","countryCapital"
 "Laos","Vientiane","countryCapital"
 "Latvia","Riga","countryCapital"
-"Lebanon","Beirut","countryCapital"
 "Liberia","Monrovia","countryCapital"
 "Libya","Tripoli","countryCapital"
 "Lithuania","Vilnius","countryCapital"
