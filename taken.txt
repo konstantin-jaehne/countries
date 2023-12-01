@@ -84,7 +84,6 @@
 "Lithuania","Vilnius","countryCapital"
 "Luxembourg","Luxembourg","countryCapital"
 "Macedonia","Skopje","countryCapital"
-"Madagascar","Antananarivo","countryCapital"
 "Malawi","Lilongwe","countryCapital"
 "Malaysia","Kuala Lumpur","countryCapital"
 "Maldives","Malé","countryCapital"
