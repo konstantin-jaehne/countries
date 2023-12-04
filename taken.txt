@@ -134,7 +134,6 @@
 "Spain","Madrid","countryCapital"
 "Sudan","Khartoum","countryCapital"
 "Swaziland","Mbabane","countryCapital"
-"Sweden","Stockholm","countryCapital"
 "Switzerland","Bern","countryCapital"
 "São Tomé and Príncipe","São Tomé","countryCapital"
 "Tajikistan","Dushanbe","countryCapital"
