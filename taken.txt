@@ -86,7 +86,6 @@
 "Mauritius","Port Louis","countryCapital"
 "Mexico","Mexico City","countryCapital"
 "Monaco","Monaco","countryCapital"
-"Mongolia","Ulaanbaatar","countryCapital"
 "Montenegro","Podgorica","countryCapital"
 "Morocco","Rabat","countryCapital"
 "Myanmar","Naypyidaw","countryCapital"
