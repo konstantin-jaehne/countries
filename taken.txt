@@ -16,7 +16,6 @@
 "Belarus","Minsk","countryCapital"
 "Benin","Porto-Novo","countryCapital"
 "Bolivia","Sucre","countryCapital"
-"Bosnia and Herzegovina","Sarajevo","countryCapital"
 "Botswana","Gaborone","countryCapital"
 "Brazil","Brasília","countryCapital"
 "Brunei","Bandar Seri Begawan","countryCapital"
