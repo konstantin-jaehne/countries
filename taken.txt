@@ -20,7 +20,6 @@
 "Brazil","Brasília","countryCapital"
 "Brunei","Bandar Seri Begawan","countryCapital"
 "Bulgaria","Sofia","countryCapital"
-"Cameroon","Yaoundé","countryCapital"
 "Cape Verde","Praia","countryCapital"
 "Chad","N'Djamena","countryCapital"
 "Chile","Santiago","countryCapital"
