@@ -134,7 +134,6 @@
 "Trinidad and Tobago","Port of Spain","countryCapital"
 "Tunisia","Tunis","countryCapital"
 "Turkey","Ankara","countryCapital"
-"Turkmenistan","Ashgabat","countryCapital"
 "Uganda","Kampala","countryCapital"
 "Ukraine","Kiev","countryCapital"
 "United Arab Emirates","Abu Dhabi","countryCapital"
