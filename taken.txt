@@ -14,7 +14,6 @@
 "Barbados","Bridgetown","countryCapital"
 "Belarus","Minsk","countryCapital"
 "Benin","Porto-Novo","countryCapital"
-"Bolivia","Sucre","countryCapital"
 "Botswana","Gaborone","countryCapital"
 "Brazil","Brasília","countryCapital"
 "Brunei","Bandar Seri Begawan","countryCapital"
