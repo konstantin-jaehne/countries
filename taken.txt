@@ -114,7 +114,6 @@
 "Singapore","Singapore","countryCapital"
 "Slovakia","Bratislava","countryCapital"
 "Slovenia","Ljubljana","countryCapital"
-"South Korea","Seoul","countryCapital"
 "Spain","Madrid","countryCapital"
 "Sudan","Khartoum","countryCapital"
 "Sweden","Stockholm","countryCapital"
