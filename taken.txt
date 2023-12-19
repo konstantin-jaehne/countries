@@ -52,7 +52,6 @@
 "Hungary","Budapest","countryCapital"
 "Iceland","Reykjavík","countryCapital"
 "Iran","Tehran","countryCapital"
-"Iraq","Baghdad","countryCapital"
 "Israel","Jerusalem","countryCapital"
 "Jamaica","Kingston","countryCapital"
 "Japan","Tokyo","countryCapital"
