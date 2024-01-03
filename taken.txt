@@ -132,5 +132,4 @@
 "Venezuela","Caracas","countryCapital"
 "Vietnam","Hanoi","countryCapital"
 "Western Sahara","El Aaiún","countryCapital"
-"Zambia","Lusaka","countryCapital"
 "Zimbabwe","Harare","countryCapital"
