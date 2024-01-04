@@ -10,7 +10,6 @@
 "Austria","Vienna","countryCapital"
 "Azerbaijan","Baku","countryCapital"
 "Bahamas","Nassau","countryCapital"
-"Bahrain","Manama","countryCapital"
 "Barbados","Bridgetown","countryCapital"
 "Belarus","Minsk","countryCapital"
 "Benin","Porto-Novo","countryCapital"
