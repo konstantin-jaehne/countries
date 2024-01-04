@@ -33,7 +33,6 @@
 "Ecuador","Quito","countryCapital"
 "Egypt","Cairo","countryCapital"
 "Equatorial Guinea","Malabo","countryCapital"
-"Eritrea","Asmara","countryCapital"
 "Estonia","Tallinn","countryCapital"
 "Federated States of Micronesia","Palikir","countryCapital"
 "Fiji","Suva","countryCapital"
