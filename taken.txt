@@ -20,7 +20,6 @@
 "Cape Verde","Praia","countryCapital"
 "Chad","N'Djamena","countryCapital"
 "Chile","Santiago","countryCapital"
-"Comoros","Moroni","countryCapital"
 "Croatia","Zagreb","countryCapital"
 "Czech Republic","Prague","countryCapital"
 "Côte d'Ivoire","Yamoussoukro","countryCapital"
