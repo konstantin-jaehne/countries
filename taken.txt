@@ -55,7 +55,6 @@
 "Kosovo","Pristina","countryCapital"
 "Kuwait","Kuwait City","countryCapital"
 "Kyrgyzstan","Bishkek","countryCapital"
-"Laos","Vientiane","countryCapital"
 "Latvia","Riga","countryCapital"
 "Liberia","Monrovia","countryCapital"
 "Libya","Tripoli","countryCapital"
