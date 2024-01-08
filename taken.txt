@@ -38,7 +38,6 @@
 "Gabon","Libreville","countryCapital"
 "Georgia","Tbilisi","countryCapital"
 "Germany","Berlin","countryCapital"
-"Greece","Athens","countryCapital"
 "Grenada","St. George's","countryCapital"
 "Guatemala","Guatemala City","countryCapital"
 "Guinea","Conakry","countryCapital"
