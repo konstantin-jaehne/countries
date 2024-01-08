@@ -77,7 +77,6 @@
 "Nepal","Kathmandu","countryCapital"
 "Netherlands","Amsterdam","countryCapital"
 "New Zealand","Wellington","countryCapital"
-"Nicaragua","Managua","countryCapital"
 "Nigeria","Abuja","countryCapital"
 "North Korea","Pyongyang","countryCapital"
 "Norway","Oslo","countryCapital"
