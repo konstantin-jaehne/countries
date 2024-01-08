@@ -90,7 +90,6 @@
 "Philippines","Manila","countryCapital"
 "Poland","Warsaw","countryCapital"
 "Portugal","Lisbon","countryCapital"
-"Qatar","Doha","countryCapital"
 "Republic of the Congo","Brazzaville","countryCapital"
 "Russia","Moscow","countryCapital"
 "Rwanda","Kigali","countryCapital"
