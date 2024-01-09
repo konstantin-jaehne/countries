@@ -115,7 +115,6 @@
 "United Arab Emirates","Abu Dhabi","countryCapital"
 "United Kingdom; England","London","countryCapital"
 "United States","Washington, D.C.","countryCapital"
-"Vanuatu","Port Vila","countryCapital"
 "Vatican City","Vatican City","countryCapital"
 "Venezuela","Caracas","countryCapital"
 "Vietnam","Hanoi","countryCapital"
