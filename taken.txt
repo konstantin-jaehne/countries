@@ -101,7 +101,6 @@
 "Sierra Leone","Freetown","countryCapital"
 "Singapore","Singapore","countryCapital"
 "Slovakia","Bratislava","countryCapital"
-"Slovenia","Ljubljana","countryCapital"
 "Spain","Madrid","countryCapital"
 "Sudan","Khartoum","countryCapital"
 "Sweden","Stockholm","countryCapital"
