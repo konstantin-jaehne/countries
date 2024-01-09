@@ -83,7 +83,6 @@
 "Palau","Ngerulmud","countryCapital"
 "Palestine","Jerusalem","countryCapital"
 "Panama","Panama City","countryCapital"
-"Papua New Guinea","Port Moresby","countryCapital"
 "Peru","Lima","countryCapital"
 "Philippines","Manila","countryCapital"
 "Poland","Warsaw","countryCapital"
