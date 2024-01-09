@@ -21,7 +21,6 @@
 "Chad","N'Djamena","countryCapital"
 "Chile","Santiago","countryCapital"
 "Croatia","Zagreb","countryCapital"
-"Czech Republic","Prague","countryCapital"
 "Côte d'Ivoire","Yamoussoukro","countryCapital"
 "Democratic Republic of the Congo","Kinshasa","countryCapital"
 "Djibouti","Djibouti","countryCapital"
