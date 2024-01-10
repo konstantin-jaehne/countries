@@ -28,7 +28,6 @@
 "Dominican Republic","Santo Domingo","countryCapital"
 "East Timor (Timor-Leste)","Dili","countryCapital"
 "Ecuador","Quito","countryCapital"
-"Egypt","Cairo","countryCapital"
 "Equatorial Guinea","Malabo","countryCapital"
 "Estonia","Tallinn","countryCapital"
 "Federated States of Micronesia","Palikir","countryCapital"
