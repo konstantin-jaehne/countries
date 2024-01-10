@@ -82,7 +82,6 @@
 "Oman","Muscat","countryCapital"
 "Palau","Ngerulmud","countryCapital"
 "Palestine","Jerusalem","countryCapital"
-"Panama","Panama City","countryCapital"
 "Peru","Lima","countryCapital"
 "Philippines","Manila","countryCapital"
 "Poland","Warsaw","countryCapital"
