@@ -6,7 +6,6 @@
 "Antigua and Barbuda","St. John's","countryCapital"
 "Argentina","Buenos Aires","countryCapital"
 "Armenia","Yerevan","countryCapital"
-"Australia","Canberra","countryCapital"
 "Austria","Vienna","countryCapital"
 "Azerbaijan","Baku","countryCapital"
 "Bahamas","Nassau","countryCapital"
