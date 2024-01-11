@@ -81,7 +81,6 @@
 "Palau","Ngerulmud","countryCapital"
 "Palestine","Jerusalem","countryCapital"
 "Peru","Lima","countryCapital"
-"Philippines","Manila","countryCapital"
 "Poland","Warsaw","countryCapital"
 "Portugal","Lisbon","countryCapital"
 "Republic of the Congo","Brazzaville","countryCapital"
