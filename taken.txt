@@ -26,7 +26,6 @@
 "Djibouti","Djibouti","countryCapital"
 "Dominica","Roseau","countryCapital"
 "Dominican Republic","Santo Domingo","countryCapital"
-"East Timor (Timor-Leste)","Dili","countryCapital"
 "Ecuador","Quito","countryCapital"
 "Equatorial Guinea","Malabo","countryCapital"
 "Estonia","Tallinn","countryCapital"
