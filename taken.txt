@@ -90,7 +90,6 @@
 "Seychelles","Victoria","countryCapital"
 "Sierra Leone","Freetown","countryCapital"
 "Singapore","Singapore","countryCapital"
-"Slovakia","Bratislava","countryCapital"
 "Spain","Madrid","countryCapital"
 "Sudan","Khartoum","countryCapital"
 "Sweden","Stockholm","countryCapital"
