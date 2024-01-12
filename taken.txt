@@ -27,7 +27,6 @@
 "Dominican Republic","Santo Domingo","countryCapital"
 "Ecuador","Quito","countryCapital"
 "Estonia","Tallinn","countryCapital"
-"Federated States of Micronesia","Palikir","countryCapital"
 "Fiji","Suva","countryCapital"
 "Finland","Helsinki","countryCapital"
 "Gabon","Libreville","countryCapital"
