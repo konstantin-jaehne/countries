@@ -80,7 +80,6 @@
 "Poland","Warsaw","countryCapital"
 "Portugal","Lisbon","countryCapital"
 "Republic of the Congo","Brazzaville","countryCapital"
-"Russia","Moscow","countryCapital"
 "Rwanda","Kigali","countryCapital"
 "Saint Lucia","Castries","countryCapital"
 "Saint Vincent and the Grenadines","Kingstown","countryCapital"
