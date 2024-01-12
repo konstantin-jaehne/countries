@@ -106,5 +106,5 @@
 "United States","Washington, D.C.","countryCapital"
 "Vatican City","Vatican City","countryCapital"
 "Venezuela","Caracas","countryCapital"
-"Vietnam","Hanoi","countryCapital"
+"Western Sahara","El Aaiún","countryCapital"
 "Zimbabwe","Harare","countryCapital"
