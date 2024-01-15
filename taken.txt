@@ -115,7 +115,6 @@
 "Montenegro","Podgorica","countryCapital"
 "Morocco","Rabat","countryCapital"
 "Mozambique","Maputo","countryCapital"
-"Myanmar","Naypyidaw","countryCapital"
 "Namibia","Windhoek","countryCapital"
 "Nauru","Yaren","countryCapital"
 "Nepal","Kathmandu","countryCapital"
