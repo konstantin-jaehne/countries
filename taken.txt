@@ -133,7 +133,6 @@
 "Portugal","Lisbon","countryCapital"
 "Qatar","Doha","countryCapital"
 "Republic of China (Taiwan)","Taipei","countryCapital"
-"Republic of the Congo","Brazzaville","countryCapital"
 "Romania","Bucharest","countryCapital"
 "Russia","Moscow","countryCapital"
 "Rwanda","Kigali","countryCapital"
