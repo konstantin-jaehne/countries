@@ -95,7 +95,6 @@
 "Macedonia","Skopje","countryCapital"
 "Madagascar","Antananarivo","countryCapital"
 "Malawi","Lilongwe","countryCapital"
-"Malaysia","Kuala Lumpur","countryCapital"
 "Maldives","Malé","countryCapital"
 "Mali","Bamako","countryCapital"
 "Malta","Valletta","countryCapital"
