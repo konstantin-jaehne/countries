@@ -174,7 +174,6 @@
 "Uzbekistan","Tashkent","countryCapital"
 "Vanuatu","Port Vila","countryCapital"
 "Vatican City","Vatican City","countryCapital"
-"Venezuela","Caracas","countryCapital"
 "Vietnam","Hanoi","countryCapital"
 "Western Sahara","El Aaiún","countryCapital"
 "Yemen","Sanaá","countryCapital"
