@@ -36,7 +36,6 @@
 "Cuba","Havana","countryCapital"
 "Cyprus","Nicosia","countryCapital"
 "Czech Republic","Prague","countryCapital"
-"Côte d'Ivoire","Yamoussoukro","countryCapital"
 "Democratic Republic of the Congo","Kinshasa","countryCapital"
 "Denmark","Copenhagen","countryCapital"
 "Djibouti","Djibouti","countryCapital"
