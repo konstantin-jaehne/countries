@@ -153,7 +153,6 @@
 "Switzerland","Bern","countryCapital"
 "Syria","Damascus","countryCapital"
 "São Tomé and Príncipe","São Tomé","countryCapital"
-"Tajikistan","Dushanbe","countryCapital"
 "Tanzania","Dodoma","countryCapital"
 "Thailand","Bangkok","countryCapital"
 "Togo","Lomé","countryCapital"
