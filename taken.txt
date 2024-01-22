@@ -120,7 +120,6 @@
 "Pakistan","Islamabad","countryCapital"
 "Palau","Ngerulmud","countryCapital"
 "Palestine","Jerusalem","countryCapital"
-"Papua New Guinea","Port Moresby","countryCapital"
 "Paraguay","Asunción","countryCapital"
 "Peru","Lima","countryCapital"
 "Philippines","Manila","countryCapital"
