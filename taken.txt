@@ -49,7 +49,6 @@
 "Eritrea","Asmara","countryCapital"
 "Estonia","Tallinn","countryCapital"
 "Ethiopia","Addis Ababa","countryCapital"
-"Federated States of Micronesia","Palikir","countryCapital"
 "Fiji","Suva","countryCapital"
 "Finland","Helsinki","countryCapital"
 "France","Paris","countryCapital"
