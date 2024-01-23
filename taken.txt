@@ -169,4 +169,3 @@
 "Western Sahara","El Aaiún","countryCapital"
 "Yemen","Sanaá","countryCapital"
 "Zambia","Lusaka","countryCapital"
-"Zimbabwe","Harare","countryCapital"
