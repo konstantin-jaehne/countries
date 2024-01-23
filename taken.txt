@@ -52,7 +52,6 @@
 "Fiji","Suva","countryCapital"
 "Finland","Helsinki","countryCapital"
 "France","Paris","countryCapital"
-"Gabon","Libreville","countryCapital"
 "Gambia","Banjul","countryCapital"
 "Georgia","Tbilisi","countryCapital"
 "Germany","Berlin","countryCapital"
