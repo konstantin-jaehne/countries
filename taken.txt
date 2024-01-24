@@ -16,7 +16,6 @@
 "Bolivia","Sucre","countryCapital"
 "Bosnia and Herzegovina","Sarajevo","countryCapital"
 "Botswana","Gaborone","countryCapital"
-"Brunei","Bandar Seri Begawan","countryCapital"
 "Bulgaria","Sofia","countryCapital"
 "Burkina Faso","Ouagadougou","countryCapital"
 "Burundi","Bujumbura","countryCapital"
