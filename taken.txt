@@ -49,7 +49,6 @@
 "Finland","Helsinki","countryCapital"
 "France","Paris","countryCapital"
 "Georgia","Tbilisi","countryCapital"
-"Germany","Berlin","countryCapital"
 "Ghana","Accra","countryCapital"
 "Greece","Athens","countryCapital"
 "Grenada","St. George's","countryCapital"
