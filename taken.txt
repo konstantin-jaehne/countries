@@ -47,7 +47,6 @@
 "Ethiopia","Addis Ababa","countryCapital"
 "Fiji","Suva","countryCapital"
 "Finland","Helsinki","countryCapital"
-"France","Paris","countryCapital"
 "Georgia","Tbilisi","countryCapital"
 "Ghana","Accra","countryCapital"
 "Greece","Athens","countryCapital"
