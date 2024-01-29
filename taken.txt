@@ -67,7 +67,6 @@
 "Jamaica","Kingston","countryCapital"
 "Japan","Tokyo","countryCapital"
 "Jordan","Amman","countryCapital"
-"Kazakhstan","Astana","countryCapital"
 "Kenya","Nairobi","countryCapital"
 "Kiribati","Tarawa","countryCapital"
 "Kuwait","Kuwait City","countryCapital"
