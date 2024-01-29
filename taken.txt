@@ -46,7 +46,6 @@
 "Estonia","Tallinn","countryCapital"
 "Ethiopia","Addis Ababa","countryCapital"
 "Fiji","Suva","countryCapital"
-"Finland","Helsinki","countryCapital"
 "Georgia","Tbilisi","countryCapital"
 "Ghana","Accra","countryCapital"
 "Greece","Athens","countryCapital"
