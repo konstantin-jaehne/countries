@@ -138,7 +138,6 @@
 "Suriname","Paramaribo","countryCapital"
 "Sweden","Stockholm","countryCapital"
 "Switzerland","Bern","countryCapital"
-"Syria","Damascus","countryCapital"
 "São Tomé and Príncipe","São Tomé","countryCapital"
 "Tanzania","Dodoma","countryCapital"
 "Thailand","Bangkok","countryCapital"
