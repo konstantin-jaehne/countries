@@ -101,7 +101,6 @@
 "Nigeria","Abuja","countryCapital"
 "North Korea","Pyongyang","countryCapital"
 "Norway","Oslo","countryCapital"
-"Oman","Muscat","countryCapital"
 "Pakistan","Islamabad","countryCapital"
 "Palau","Ngerulmud","countryCapital"
 "Palestine","Jerusalem","countryCapital"
