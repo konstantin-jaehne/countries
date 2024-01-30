@@ -38,7 +38,6 @@
 "Dominica","Roseau","countryCapital"
 "Dominican Republic","Santo Domingo","countryCapital"
 "East Timor (Timor-Leste)","Dili","countryCapital"
-"Ecuador","Quito","countryCapital"
 "Egypt","Cairo","countryCapital"
 "El Salvador","San Salvador","countryCapital"
 "Equatorial Guinea","Malabo","countryCapital"
