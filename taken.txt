@@ -2,7 +2,6 @@
 "Albania","Tirana","countryCapital"
 "Andorra","Andorra la Vella","countryCapital"
 "Angola","Luanda","countryCapital"
-"Argentina","Buenos Aires","countryCapital"
 "Australia","Canberra","countryCapital"
 "Austria","Vienna","countryCapital"
 "Azerbaijan","Baku","countryCapital"
