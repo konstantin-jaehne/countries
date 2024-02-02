@@ -12,7 +12,6 @@
 "Belgium","Brussels","countryCapital"
 "Benin","Porto-Novo","countryCapital"
 "Bhutan","Thimphu","countryCapital"
-"Bolivia","Sucre","countryCapital"
 "Bosnia and Herzegovina","Sarajevo","countryCapital"
 "Bulgaria","Sofia","countryCapital"
 "Burkina Faso","Ouagadougou","countryCapital"
