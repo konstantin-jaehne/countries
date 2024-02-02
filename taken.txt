@@ -78,7 +78,6 @@
 "Malta","Valletta","countryCapital"
 "Marshall Islands","Majuro","countryCapital"
 "Mauritania","Nouakchott","countryCapital"
-"Mauritius","Port Louis","countryCapital"
 "Moldova","Chisinau","countryCapital"
 "Monaco","Monaco","countryCapital"
 "Mongolia","Ulaanbaatar","countryCapital"
