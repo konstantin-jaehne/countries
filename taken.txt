@@ -7,7 +7,6 @@
 "Bahamas","Nassau","countryCapital"
 "Bahrain","Manama","countryCapital"
 "Bangladesh","Dhaka","countryCapital"
-"Belgium","Brussels","countryCapital"
 "Benin","Porto-Novo","countryCapital"
 "Bhutan","Thimphu","countryCapital"
 "Bosnia and Herzegovina","Sarajevo","countryCapital"
