@@ -44,7 +44,6 @@
 "Georgia","Tbilisi","countryCapital"
 "Ghana","Accra","countryCapital"
 "Greece","Athens","countryCapital"
-"Grenada","St. George's","countryCapital"
 "Guinea","Conakry","countryCapital"
 "Guyana","Georgetown","countryCapital"
 "Haiti","Port-au-Prince","countryCapital"
