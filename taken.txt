@@ -61,7 +61,7 @@
 "Kuwait","Kuwait City","countryCapital"
 "Kyrgyzstan","Bishkek","countryCapital"
 "Latvia","Riga","countryCapital"
-"Lesotho","Maseru","countryCapital"
+"Liberia","Monrovia","countryCapital"
 "Libya","Tripoli","countryCapital"
 "Liechtenstein","Vaduz","countryCapital"
 "Lithuania","Vilnius","countryCapital"
