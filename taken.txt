@@ -23,7 +23,6 @@
 "Comoros","Moroni","countryCapital"
 "Costa Rica","San José","countryCapital"
 "Croatia","Zagreb","countryCapital"
-"Cuba","Havana","countryCapital"
 "Cyprus","Nicosia","countryCapital"
 "Czech Republic","Prague","countryCapital"
 "Democratic Republic of the Congo","Kinshasa","countryCapital"
