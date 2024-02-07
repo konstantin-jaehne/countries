@@ -86,7 +86,6 @@
 "New Zealand","Wellington","countryCapital"
 "Nicaragua","Managua","countryCapital"
 "Nigeria","Abuja","countryCapital"
-"Norway","Oslo","countryCapital"
 "Pakistan","Islamabad","countryCapital"
 "Palau","Ngerulmud","countryCapital"
 "Palestine","Jerusalem","countryCapital"
