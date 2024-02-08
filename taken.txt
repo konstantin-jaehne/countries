@@ -91,7 +91,6 @@
 "Palestine","Jerusalem","countryCapital"
 "Paraguay","Asunción","countryCapital"
 "Peru","Lima","countryCapital"
-"Philippines","Manila","countryCapital"
 "Portugal","Lisbon","countryCapital"
 "Qatar","Doha","countryCapital"
 "Republic of China (Taiwan)","Taipei","countryCapital"
