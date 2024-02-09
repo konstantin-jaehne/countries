@@ -2,7 +2,6 @@
 "Albania","Tirana","countryCapital"
 "Andorra","Andorra la Vella","countryCapital"
 "Austria","Vienna","countryCapital"
-"Azerbaijan","Baku","countryCapital"
 "Bahamas","Nassau","countryCapital"
 "Bahrain","Manama","countryCapital"
 "Bangladesh","Dhaka","countryCapital"
