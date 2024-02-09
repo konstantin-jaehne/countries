@@ -97,7 +97,6 @@
 "San Marino","San Marino","countryCapital"
 "Saudi Arabia","Riyadh","countryCapital"
 "Seychelles","Victoria","countryCapital"
-"Sierra Leone","Freetown","countryCapital"
 "Singapore","Singapore","countryCapital"
 "Slovakia","Bratislava","countryCapital"
 "Slovenia","Ljubljana","countryCapital"
