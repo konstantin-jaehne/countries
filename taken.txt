@@ -107,7 +107,6 @@
 "Sweden","Stockholm","countryCapital"
 "Switzerland","Bern","countryCapital"
 "São Tomé and Príncipe","São Tomé","countryCapital"
-"Tanzania","Dodoma","countryCapital"
 "Thailand","Bangkok","countryCapital"
 "Togo","Lomé","countryCapital"
 "Tonga","Nukuʻalofa","countryCapital"
