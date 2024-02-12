@@ -106,7 +106,6 @@
 "Spain","Madrid","countryCapital"
 "Sri Lanka","Sri Jayawardenapura Kotte","countryCapital"
 "Sudan","Khartoum","countryCapital"
-"Suriname","Paramaribo","countryCapital"
 "Sweden","Stockholm","countryCapital"
 "Switzerland","Bern","countryCapital"
 "São Tomé and Príncipe","São Tomé","countryCapital"
