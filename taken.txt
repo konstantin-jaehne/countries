@@ -50,7 +50,6 @@
 "Italy","Rome","countryCapital"
 "Jamaica","Kingston","countryCapital"
 "Japan","Tokyo","countryCapital"
-"Jordan","Amman","countryCapital"
 "Kiribati","Tarawa","countryCapital"
 "Kuwait","Kuwait City","countryCapital"
 "Kyrgyzstan","Bishkek","countryCapital"
