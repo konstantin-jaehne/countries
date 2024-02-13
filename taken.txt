@@ -93,7 +93,6 @@
 "Samoa","Apia","countryCapital"
 "San Marino","San Marino","countryCapital"
 "Saudi Arabia","Riyadh","countryCapital"
-"Seychelles","Victoria","countryCapital"
 "Singapore","Singapore","countryCapital"
 "Slovakia","Bratislava","countryCapital"
 "Slovenia","Ljubljana","countryCapital"
