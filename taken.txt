@@ -81,7 +81,6 @@
 "Nicaragua","Managua","countryCapital"
 "Nigeria","Abuja","countryCapital"
 "Pakistan","Islamabad","countryCapital"
-"Palau","Ngerulmud","countryCapital"
 "Palestine","Jerusalem","countryCapital"
 "Paraguay","Asunción","countryCapital"
 "Peru","Lima","countryCapital"
