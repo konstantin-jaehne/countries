@@ -23,7 +23,6 @@
 "Croatia","Zagreb","countryCapital"
 "Cyprus","Nicosia","countryCapital"
 "Czech Republic","Prague","countryCapital"
-"Democratic Republic of the Congo","Kinshasa","countryCapital"
 "Denmark","Copenhagen","countryCapital"
 "Dominica","Roseau","countryCapital"
 "Dominican Republic","Santo Domingo","countryCapital"
