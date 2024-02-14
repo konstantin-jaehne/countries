@@ -110,7 +110,6 @@
 "Trinidad and Tobago","Port of Spain","countryCapital"
 "Tunisia","Tunis","countryCapital"
 "Turkey","Ankara","countryCapital"
-"Tuvalu","Funafuti","countryCapital"
 "Ukraine","Kiev","countryCapital"
 "United Kingdom; England","London","countryCapital"
 "United States","Washington, D.C.","countryCapital"
