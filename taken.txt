@@ -114,7 +114,6 @@
 "Mozambique","Maputo","countryCapital"
 "Myanmar","Naypyidaw","countryCapital"
 "Namibia","Windhoek","countryCapital"
-"Nauru","Yaren","countryCapital"
 "Nepal","Kathmandu","countryCapital"
 "Netherlands","Amsterdam","countryCapital"
 "New Zealand","Wellington","countryCapital"
