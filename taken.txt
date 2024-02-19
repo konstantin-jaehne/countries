@@ -66,7 +66,6 @@
 "Guinea-Bissau","Bissau","countryCapital"
 "Haiti","Port-au-Prince","countryCapital"
 "Honduras","Tegucigalpa","countryCapital"
-"Hungary","Budapest","countryCapital"
 "Iceland","Reykjavík","countryCapital"
 "India","New Delhi","countryCapital"
 "Indonesia","Jakarta","countryCapital"
