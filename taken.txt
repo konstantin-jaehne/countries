@@ -106,7 +106,6 @@
 "Moldova","Chisinau","countryCapital"
 "Monaco","Monaco","countryCapital"
 "Montenegro","Podgorica","countryCapital"
-"Morocco","Rabat","countryCapital"
 "Mozambique","Maputo","countryCapital"
 "Myanmar","Naypyidaw","countryCapital"
 "Namibia","Windhoek","countryCapital"
