@@ -59,7 +59,6 @@
 "Georgia","Tbilisi","countryCapital"
 "Germany","Berlin","countryCapital"
 "Ghana","Accra","countryCapital"
-"Greece","Athens","countryCapital"
 "Guatemala","Guatemala City","countryCapital"
 "Guinea","Conakry","countryCapital"
 "Guinea-Bissau","Bissau","countryCapital"
