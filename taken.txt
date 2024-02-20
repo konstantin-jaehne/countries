@@ -22,7 +22,6 @@
 "Brazil","Brasília","countryCapital"
 "Brunei","Bandar Seri Begawan","countryCapital"
 "Bulgaria","Sofia","countryCapital"
-"Burkina Faso","Ouagadougou","countryCapital"
 "Burundi","Bujumbura","countryCapital"
 "Cambodia","Phnom Penh","countryCapital"
 "Cameroon","Yaoundé","countryCapital"
