@@ -62,7 +62,6 @@
 "Guatemala","Guatemala City","countryCapital"
 "Guinea","Conakry","countryCapital"
 "Guinea-Bissau","Bissau","countryCapital"
-"Haiti","Port-au-Prince","countryCapital"
 "Honduras","Tegucigalpa","countryCapital"
 "Iceland","Reykjavík","countryCapital"
 "India","New Delhi","countryCapital"
