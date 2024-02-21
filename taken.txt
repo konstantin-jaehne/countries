@@ -149,7 +149,6 @@
 "Sudan","Khartoum","countryCapital"
 "Suriname","Paramaribo","countryCapital"
 "Swaziland","Mbabane","countryCapital"
-"Sweden","Stockholm","countryCapital"
 "Switzerland","Bern","countryCapital"
 "Syria","Damascus","countryCapital"
 "Tajikistan","Dushanbe","countryCapital"
