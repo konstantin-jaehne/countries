@@ -135,7 +135,6 @@
 "Serbia","Belgrade","countryCapital"
 "Seychelles","Victoria","countryCapital"
 "Sierra Leone","Freetown","countryCapital"
-"Singapore","Singapore","countryCapital"
 "Slovakia","Bratislava","countryCapital"
 "Slovenia","Ljubljana","countryCapital"
 "Solomon Islands","Honiara","countryCapital"
