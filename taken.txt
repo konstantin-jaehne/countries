@@ -60,7 +60,6 @@
 "Ghana","Accra","countryCapital"
 "Guatemala","Guatemala City","countryCapital"
 "Guinea","Conakry","countryCapital"
-"Guinea-Bissau","Bissau","countryCapital"
 "Honduras","Tegucigalpa","countryCapital"
 "Iceland","Reykjavík","countryCapital"
 "India","New Delhi","countryCapital"
