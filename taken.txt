@@ -75,7 +75,6 @@
 "Kazakhstan","Astana","countryCapital"
 "Kenya","Nairobi","countryCapital"
 "Kiribati","Tarawa","countryCapital"
-"Kosovo","Pristina","countryCapital"
 "Kuwait","Kuwait City","countryCapital"
 "Kyrgyzstan","Bishkek","countryCapital"
 "Laos","Vientiane","countryCapital"
