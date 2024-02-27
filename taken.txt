@@ -117,7 +117,6 @@
 "Russia","Moscow","countryCapital"
 "Rwanda","Kigali","countryCapital"
 "Saint Kitts and Nevis","Basseterre","countryCapital"
-"Saint Lucia","Castries","countryCapital"
 "Saint Vincent and the Grenadines","Kingstown","countryCapital"
 "Samoa","Apia","countryCapital"
 "San Marino","San Marino","countryCapital"
