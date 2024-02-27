@@ -43,7 +43,6 @@
 "East Timor (Timor-Leste)","Dili","countryCapital"
 "Ecuador","Quito","countryCapital"
 "Egypt","Cairo","countryCapital"
-"El Salvador","San Salvador","countryCapital"
 "Equatorial Guinea","Malabo","countryCapital"
 "Eritrea","Asmara","countryCapital"
 "Estonia","Tallinn","countryCapital"
