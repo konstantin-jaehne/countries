@@ -57,7 +57,6 @@
 "Guinea","Conakry","countryCapital"
 "Honduras","Tegucigalpa","countryCapital"
 "Iceland","Reykjavík","countryCapital"
-"India","New Delhi","countryCapital"
 "Iran","Tehran","countryCapital"
 "Iraq","Baghdad","countryCapital"
 "Ireland","Dublin","countryCapital"
