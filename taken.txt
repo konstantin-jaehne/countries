@@ -94,7 +94,6 @@
 "New Zealand","Wellington","countryCapital"
 "Nicaragua","Managua","countryCapital"
 "Niger","Niamey","countryCapital"
-"Nigeria","Abuja","countryCapital"
 "North Korea","Pyongyang","countryCapital"
 "Norway","Oslo","countryCapital"
 "Oman","Muscat","countryCapital"
