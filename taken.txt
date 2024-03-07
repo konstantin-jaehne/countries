@@ -92,7 +92,6 @@
 "Netherlands","Amsterdam","countryCapital"
 "New Zealand","Wellington","countryCapital"
 "Nicaragua","Managua","countryCapital"
-"Niger","Niamey","countryCapital"
 "Norway","Oslo","countryCapital"
 "Oman","Muscat","countryCapital"
 "Pakistan","Islamabad","countryCapital"
