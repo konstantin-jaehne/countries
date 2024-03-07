@@ -93,7 +93,6 @@
 "New Zealand","Wellington","countryCapital"
 "Nicaragua","Managua","countryCapital"
 "Niger","Niamey","countryCapital"
-"North Korea","Pyongyang","countryCapital"
 "Norway","Oslo","countryCapital"
 "Oman","Muscat","countryCapital"
 "Pakistan","Islamabad","countryCapital"
