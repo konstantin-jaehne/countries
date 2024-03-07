@@ -1,5 +1,4 @@
 "Afghanistan","Kabul","countryCapital"
-"Algeria","Algiers","countryCapital"
 "Andorra","Andorra la Vella","countryCapital"
 "Argentina","Buenos Aires","countryCapital"
 "Armenia","Yerevan","countryCapital"
