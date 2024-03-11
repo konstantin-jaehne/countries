@@ -7,7 +7,6 @@
 "Azerbaijan","Baku","countryCapital"
 "Bahamas","Nassau","countryCapital"
 "Bangladesh","Dhaka","countryCapital"
-"Barbados","Bridgetown","countryCapital"
 "Belarus","Minsk","countryCapital"
 "Belgium","Brussels","countryCapital"
 "Belize","Belmopan","countryCapital"
