@@ -84,7 +84,6 @@
 "Myanmar","Naypyidaw","countryCapital"
 "Namibia","Windhoek","countryCapital"
 "Nepal","Kathmandu","countryCapital"
-"Netherlands","Amsterdam","countryCapital"
 "New Zealand","Wellington","countryCapital"
 "Nicaragua","Managua","countryCapital"
 "Norway","Oslo","countryCapital"
