@@ -30,7 +30,6 @@
 "Czech Republic","Prague","countryCapital"
 "Denmark","Copenhagen","countryCapital"
 "Djibouti","Djibouti","countryCapital"
-"Dominican Republic","Santo Domingo","countryCapital"
 "East Timor (Timor-Leste)","Dili","countryCapital"
 "Ecuador","Quito","countryCapital"
 "Egypt","Cairo","countryCapital"
