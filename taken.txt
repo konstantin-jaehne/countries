@@ -15,7 +15,6 @@
 "Bosnia and Herzegovina","Sarajevo","countryCapital"
 "Brunei","Bandar Seri Begawan","countryCapital"
 "Bulgaria","Sofia","countryCapital"
-"Cambodia","Phnom Penh","countryCapital"
 "Cameroon","Yaoundé","countryCapital"
 "Canada","Ottawa","countryCapital"
 "Cape Verde","Praia","countryCapital"
