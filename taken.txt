@@ -41,7 +41,6 @@
 "France","Paris","countryCapital"
 "Gabon","Libreville","countryCapital"
 "Gambia","Banjul","countryCapital"
-"Germany","Berlin","countryCapital"
 "Ghana","Accra","countryCapital"
 "Guatemala","Guatemala City","countryCapital"
 "Guinea","Conakry","countryCapital"
