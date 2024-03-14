@@ -77,7 +77,6 @@
 "Mozambique","Maputo","countryCapital"
 "Myanmar","Naypyidaw","countryCapital"
 "Namibia","Windhoek","countryCapital"
-"Nepal","Kathmandu","countryCapital"
 "New Zealand","Wellington","countryCapital"
 "Nicaragua","Managua","countryCapital"
 "Norway","Oslo","countryCapital"
