@@ -111,7 +111,6 @@
 "South Africa","Pretoria","countryCapital"
 "South Korea","Seoul","countryCapital"
 "South Sudan","Juba","countryCapital"
-"Spain","Madrid","countryCapital"
 "Sri Lanka","Sri Jayawardenapura Kotte","countryCapital"
 "Sudan","Khartoum","countryCapital"
 "Suriname","Paramaribo","countryCapital"
