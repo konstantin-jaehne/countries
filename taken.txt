@@ -52,7 +52,6 @@
 "Israel","Jerusalem","countryCapital"
 "Japan","Tokyo","countryCapital"
 "Jordan","Amman","countryCapital"
-"Kiribati","Tarawa","countryCapital"
 "Kuwait","Kuwait City","countryCapital"
 "Kyrgyzstan","Bishkek","countryCapital"
 "Laos","Vientiane","countryCapital"
