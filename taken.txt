@@ -128,4 +128,3 @@
 "Vietnam","Hanoi","countryCapital"
 "Western Sahara","El Aaiún","countryCapital"
 "Yemen","Sanaá","countryCapital"
-"Zimbabwe","Harare","countryCapital"
