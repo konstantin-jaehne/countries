@@ -46,7 +46,6 @@
 "Iraq","Baghdad","countryCapital"
 "Ireland","Dublin","countryCapital"
 "Israel","Jerusalem","countryCapital"
-"Japan","Tokyo","countryCapital"
 "Jordan","Amman","countryCapital"
 "Kuwait","Kuwait City","countryCapital"
 "Kyrgyzstan","Bishkek","countryCapital"
