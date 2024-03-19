@@ -108,7 +108,6 @@
 "Togo","Lomé","countryCapital"
 "Tonga","Nukuʻalofa","countryCapital"
 "Trinidad and Tobago","Port of Spain","countryCapital"
-"Tunisia","Tunis","countryCapital"
 "Turkey","Ankara","countryCapital"
 "Tuvalu","Funafuti","countryCapital"
 "Uganda","Kampala","countryCapital"
