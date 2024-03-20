@@ -28,7 +28,6 @@
 "Djibouti","Djibouti","countryCapital"
 "Ecuador","Quito","countryCapital"
 "Egypt","Cairo","countryCapital"
-"Eritrea","Asmara","countryCapital"
 "Estonia","Tallinn","countryCapital"
 "Ethiopia","Addis Ababa","countryCapital"
 "Fiji","Suva","countryCapital"
