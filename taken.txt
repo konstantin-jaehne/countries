@@ -80,7 +80,6 @@
 "Poland","Warsaw","countryCapital"
 "Portugal","Lisbon","countryCapital"
 "Republic of China (Taiwan)","Taipei","countryCapital"
-"Russia","Moscow","countryCapital"
 "Rwanda","Kigali","countryCapital"
 "Saint Kitts and Nevis","Basseterre","countryCapital"
 "Saint Vincent and the Grenadines","Kingstown","countryCapital"
