@@ -101,7 +101,6 @@
 "Syria","Damascus","countryCapital"
 "Tajikistan","Dushanbe","countryCapital"
 "Thailand","Bangkok","countryCapital"
-"Togo","Lomé","countryCapital"
 "Tonga","Nukuʻalofa","countryCapital"
 "Trinidad and Tobago","Port of Spain","countryCapital"
 "Turkey","Ankara","countryCapital"
