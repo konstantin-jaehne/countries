@@ -101,7 +101,6 @@
 "Tajikistan","Dushanbe","countryCapital"
 "Thailand","Bangkok","countryCapital"
 "Tonga","Nukuʻalofa","countryCapital"
-"Trinidad and Tobago","Port of Spain","countryCapital"
 "Turkey","Ankara","countryCapital"
 "Tuvalu","Funafuti","countryCapital"
 "Uganda","Kampala","countryCapital"
