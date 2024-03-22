@@ -85,7 +85,6 @@
 "Serbia","Belgrade","countryCapital"
 "Sierra Leone","Freetown","countryCapital"
 "Slovakia","Bratislava","countryCapital"
-"Slovenia","Ljubljana","countryCapital"
 "Solomon Islands","Honiara","countryCapital"
 "South Africa","Pretoria","countryCapital"
 "South Korea","Seoul","countryCapital"
