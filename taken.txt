@@ -107,5 +107,4 @@
 "Vanuatu","Port Vila","countryCapital"
 "Venezuela","Caracas","countryCapital"
 "Vietnam","Hanoi","countryCapital"
-"Western Sahara","El Aaiún","countryCapital"
 "Yemen","Sanaá","countryCapital"
