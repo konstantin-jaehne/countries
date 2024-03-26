@@ -95,7 +95,6 @@
 "Thailand","Bangkok","countryCapital"
 "Tonga","Nukuʻalofa","countryCapital"
 "Turkey","Ankara","countryCapital"
-"Tuvalu","Funafuti","countryCapital"
 "Uganda","Kampala","countryCapital"
 "Ukraine","Kiev","countryCapital"
 "United States","Washington, D.C.","countryCapital"
