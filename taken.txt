@@ -45,7 +45,6 @@
 "Lesotho","Maseru","countryCapital"
 "Liberia","Monrovia","countryCapital"
 "Lithuania","Vilnius","countryCapital"
-"Luxembourg","Luxembourg","countryCapital"
 "Macedonia","Skopje","countryCapital"
 "Madagascar","Antananarivo","countryCapital"
 "Malawi","Lilongwe","countryCapital"
