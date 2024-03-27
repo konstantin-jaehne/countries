@@ -85,7 +85,6 @@
 "South Korea","Seoul","countryCapital"
 "Sri Lanka","Sri Jayawardenapura Kotte","countryCapital"
 "Sudan","Khartoum","countryCapital"
-"Suriname","Paramaribo","countryCapital"
 "Switzerland","Bern","countryCapital"
 "Syria","Damascus","countryCapital"
 "Tajikistan","Dushanbe","countryCapital"
