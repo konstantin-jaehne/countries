@@ -16,7 +16,6 @@
 "Central African Republic","Bangui","countryCapital"
 "Chile","Santiago","countryCapital"
 "Colombia","Bogotá","countryCapital"
-"Comoros","Moroni","countryCapital"
 "Costa Rica","San José","countryCapital"
 "Croatia","Zagreb","countryCapital"
 "Cuba","Havana","countryCapital"
