@@ -76,7 +76,6 @@
 "Senegal","Dakar","countryCapital"
 "Serbia","Belgrade","countryCapital"
 "Sierra Leone","Freetown","countryCapital"
-"Slovakia","Bratislava","countryCapital"
 "Solomon Islands","Honiara","countryCapital"
 "South Africa","Pretoria","countryCapital"
 "South Korea","Seoul","countryCapital"
