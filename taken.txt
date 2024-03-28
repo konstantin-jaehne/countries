@@ -64,7 +64,6 @@
 "Palau","Ngerulmud","countryCapital"
 "Panama","Panama City","countryCapital"
 "Paraguay","Asunción","countryCapital"
-"Peru","Lima","countryCapital"
 "Philippines","Manila","countryCapital"
 "Poland","Warsaw","countryCapital"
 "Portugal","Lisbon","countryCapital"
