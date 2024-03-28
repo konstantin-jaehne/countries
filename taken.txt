@@ -52,7 +52,6 @@
 "Marshall Islands","Majuro","countryCapital"
 "Mauritania","Nouakchott","countryCapital"
 "Moldova","Chisinau","countryCapital"
-"Monaco","Monaco","countryCapital"
 "Mozambique","Maputo","countryCapital"
 "Myanmar","Naypyidaw","countryCapital"
 "Namibia","Windhoek","countryCapital"
