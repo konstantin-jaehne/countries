@@ -42,7 +42,6 @@
 "Kyrgyzstan","Bishkek","countryCapital"
 "Laos","Vientiane","countryCapital"
 "Lesotho","Maseru","countryCapital"
-"Liberia","Monrovia","countryCapital"
 "Lithuania","Vilnius","countryCapital"
 "Macedonia","Skopje","countryCapital"
 "Madagascar","Antananarivo","countryCapital"
