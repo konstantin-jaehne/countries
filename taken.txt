@@ -47,7 +47,6 @@
 "Malaysia","Kuala Lumpur","countryCapital"
 "Maldives","Malé","countryCapital"
 "Malta","Valletta","countryCapital"
-"Marshall Islands","Majuro","countryCapital"
 "Mauritania","Nouakchott","countryCapital"
 "Moldova","Chisinau","countryCapital"
 "Mozambique","Maputo","countryCapital"
