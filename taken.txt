@@ -67,7 +67,6 @@
 "Portugal","Lisbon","countryCapital"
 "Republic of China (Taiwan)","Taipei","countryCapital"
 "Rwanda","Kigali","countryCapital"
-"Saint Kitts and Nevis","Basseterre","countryCapital"
 "Saint Vincent and the Grenadines","Kingstown","countryCapital"
 "San Marino","San Marino","countryCapital"
 "Saudi Arabia","Riyadh","countryCapital"
