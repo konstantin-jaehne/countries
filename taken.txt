@@ -20,7 +20,6 @@
 "Cuba","Havana","countryCapital"
 "Czech Republic","Prague","countryCapital"
 "Denmark","Copenhagen","countryCapital"
-"Djibouti","Djibouti","countryCapital"
 "Ecuador","Quito","countryCapital"
 "Egypt","Cairo","countryCapital"
 "Estonia","Tallinn","countryCapital"
