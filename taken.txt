@@ -36,7 +36,6 @@
 "Iran","Tehran","countryCapital"
 "Iraq","Baghdad","countryCapital"
 "Ireland","Dublin","countryCapital"
-"Israel","Jerusalem","countryCapital"
 "Kuwait","Kuwait City","countryCapital"
 "Kyrgyzstan","Bishkek","countryCapital"
 "Laos","Vientiane","countryCapital"
