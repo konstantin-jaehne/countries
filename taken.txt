@@ -6,7 +6,6 @@
 "Bangladesh","Dhaka","countryCapital"
 "Belize","Belmopan","countryCapital"
 "Bhutan","Thimphu","countryCapital"
-"Bosnia and Herzegovina","Sarajevo","countryCapital"
 "Brunei","Bandar Seri Begawan","countryCapital"
 "Bulgaria","Sofia","countryCapital"
 "Cameroon","Yaoundé","countryCapital"
