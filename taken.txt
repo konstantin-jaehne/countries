@@ -49,7 +49,6 @@
 "Myanmar","Naypyidaw","countryCapital"
 "Namibia","Windhoek","countryCapital"
 "New Zealand","Wellington","countryCapital"
-"Norway","Oslo","countryCapital"
 "Oman","Muscat","countryCapital"
 "Pakistan","Islamabad","countryCapital"
 "Palau","Ngerulmud","countryCapital"
