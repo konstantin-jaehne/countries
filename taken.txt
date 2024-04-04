@@ -78,7 +78,6 @@
 "Turkey","Ankara","countryCapital"
 "Uganda","Kampala","countryCapital"
 "Ukraine","Kiev","countryCapital"
-"United States","Washington, D.C.","countryCapital"
 "Uzbekistan","Tashkent","countryCapital"
 "Vanuatu","Port Vila","countryCapital"
 "Venezuela","Caracas","countryCapital"
