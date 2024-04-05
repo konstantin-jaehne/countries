@@ -2,7 +2,6 @@
 "Andorra","Andorra la Vella","countryCapital"
 "Armenia","Yerevan","countryCapital"
 "Azerbaijan","Baku","countryCapital"
-"Bahamas","Nassau","countryCapital"
 "Bangladesh","Dhaka","countryCapital"
 "Belize","Belmopan","countryCapital"
 "Bhutan","Thimphu","countryCapital"
