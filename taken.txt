@@ -29,7 +29,6 @@
 "Guatemala","Guatemala City","countryCapital"
 "Guinea","Conakry","countryCapital"
 "Honduras","Tegucigalpa","countryCapital"
-"Iran","Tehran","countryCapital"
 "Iraq","Baghdad","countryCapital"
 "Ireland","Dublin","countryCapital"
 "Kuwait","Kuwait City","countryCapital"
