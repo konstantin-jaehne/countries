@@ -13,7 +13,6 @@
 "Chile","Santiago","countryCapital"
 "Colombia","Bogotá","countryCapital"
 "Costa Rica","San José","countryCapital"
-"Croatia","Zagreb","countryCapital"
 "Cuba","Havana","countryCapital"
 "Czech Republic","Prague","countryCapital"
 "Denmark","Copenhagen","countryCapital"
