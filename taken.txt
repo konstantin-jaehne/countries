@@ -41,7 +41,6 @@
 "Maldives","Malé","countryCapital"
 "Malta","Valletta","countryCapital"
 "Mauritania","Nouakchott","countryCapital"
-"Moldova","Chisinau","countryCapital"
 "Mozambique","Maputo","countryCapital"
 "Myanmar","Naypyidaw","countryCapital"
 "Namibia","Windhoek","countryCapital"
