@@ -43,7 +43,6 @@
 "Myanmar","Naypyidaw","countryCapital"
 "Namibia","Windhoek","countryCapital"
 "New Zealand","Wellington","countryCapital"
-"Oman","Muscat","countryCapital"
 "Pakistan","Islamabad","countryCapital"
 "Palau","Ngerulmud","countryCapital"
 "Panama","Panama City","countryCapital"
