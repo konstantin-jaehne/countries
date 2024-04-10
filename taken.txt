@@ -65,7 +65,6 @@
 "Tonga","Nukuʻalofa","countryCapital"
 "Turkey","Ankara","countryCapital"
 "Uganda","Kampala","countryCapital"
-"Ukraine","Kiev","countryCapital"
 "Uzbekistan","Tashkent","countryCapital"
 "Vanuatu","Port Vila","countryCapital"
 "Venezuela","Caracas","countryCapital"
