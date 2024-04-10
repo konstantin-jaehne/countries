@@ -44,7 +44,6 @@
 "New Zealand","Wellington","countryCapital"
 "Pakistan","Islamabad","countryCapital"
 "Palau","Ngerulmud","countryCapital"
-"Panama","Panama City","countryCapital"
 "Paraguay","Asunción","countryCapital"
 "Poland","Warsaw","countryCapital"
 "Portugal","Lisbon","countryCapital"
