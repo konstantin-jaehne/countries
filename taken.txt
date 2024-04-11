@@ -44,7 +44,6 @@
 "Pakistan","Islamabad","countryCapital"
 "Palau","Ngerulmud","countryCapital"
 "Paraguay","Asunción","countryCapital"
-"Poland","Warsaw","countryCapital"
 "Portugal","Lisbon","countryCapital"
 "Republic of China (Taiwan)","Taipei","countryCapital"
 "Rwanda","Kigali","countryCapital"
