@@ -23,7 +23,6 @@
 "France","Paris","countryCapital"
 "Gabon","Libreville","countryCapital"
 "Gambia","Banjul","countryCapital"
-"Ghana","Accra","countryCapital"
 "Guatemala","Guatemala City","countryCapital"
 "Guinea","Conakry","countryCapital"
 "Honduras","Tegucigalpa","countryCapital"
