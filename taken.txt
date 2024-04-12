@@ -51,7 +51,6 @@
 "South Africa","Pretoria","countryCapital"
 "South Korea","Seoul","countryCapital"
 "Sri Lanka","Sri Jayawardenapura Kotte","countryCapital"
-"Sudan","Khartoum","countryCapital"
 "Switzerland","Bern","countryCapital"
 "Tajikistan","Dushanbe","countryCapital"
 "Thailand","Bangkok","countryCapital"
