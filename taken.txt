@@ -1,5 +1,4 @@
 "Afghanistan","Kabul","countryCapital"
-"Armenia","Yerevan","countryCapital"
 "Azerbaijan","Baku","countryCapital"
 "Bangladesh","Dhaka","countryCapital"
 "Belize","Belmopan","countryCapital"
