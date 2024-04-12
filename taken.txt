@@ -59,7 +59,6 @@
 "Turkey","Ankara","countryCapital"
 "Uganda","Kampala","countryCapital"
 "Uzbekistan","Tashkent","countryCapital"
-"Vanuatu","Port Vila","countryCapital"
 "Venezuela","Caracas","countryCapital"
 "Vietnam","Hanoi","countryCapital"
 "Yemen","Sanaá","countryCapital"
