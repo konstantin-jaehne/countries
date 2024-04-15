@@ -22,7 +22,6 @@
 "Guinea","Conakry","countryCapital"
 "Honduras","Tegucigalpa","countryCapital"
 "Ireland","Dublin","countryCapital"
-"Kuwait","Kuwait City","countryCapital"
 "Kyrgyzstan","Bishkek","countryCapital"
 "Laos","Vientiane","countryCapital"
 "Lesotho","Maseru","countryCapital"
