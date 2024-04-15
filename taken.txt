@@ -17,7 +17,6 @@
 "Egypt","Cairo","countryCapital"
 "Estonia","Tallinn","countryCapital"
 "Ethiopia","Addis Ababa","countryCapital"
-"Fiji","Suva","countryCapital"
 "France","Paris","countryCapital"
 "Gambia","Banjul","countryCapital"
 "Guatemala","Guatemala City","countryCapital"
