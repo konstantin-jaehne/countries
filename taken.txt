@@ -7,7 +7,6 @@
 "Bulgaria","Sofia","countryCapital"
 "Cameroon","Yaoundé","countryCapital"
 "Cape Verde","Praia","countryCapital"
-"Central African Republic","Bangui","countryCapital"
 "Chile","Santiago","countryCapital"
 "Colombia","Bogotá","countryCapital"
 "Costa Rica","San José","countryCapital"
