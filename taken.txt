@@ -42,7 +42,6 @@
 "Côte d'Ivoire","Yamoussoukro","countryCapital"
 "Democratic Republic of the Congo","Kinshasa","countryCapital"
 "Denmark","Copenhagen","countryCapital"
-"Djibouti","Djibouti","countryCapital"
 "Dominica","Roseau","countryCapital"
 "Dominican Republic","Santo Domingo","countryCapital"
 "East Timor (Timor-Leste)","Dili","countryCapital"
