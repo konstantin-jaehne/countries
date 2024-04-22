@@ -139,7 +139,6 @@
 "San Marino","San Marino","countryCapital"
 "Saudi Arabia","Riyadh","countryCapital"
 "Senegal","Dakar","countryCapital"
-"Serbia","Belgrade","countryCapital"
 "Seychelles","Victoria","countryCapital"
 "Sierra Leone","Freetown","countryCapital"
 "Singapore","Singapore","countryCapital"
