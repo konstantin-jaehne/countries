@@ -136,7 +136,6 @@
 "Rwanda","Kigali","countryCapital"
 "Saint Lucia","Castries","countryCapital"
 "Saint Vincent and the Grenadines","Kingstown","countryCapital"
-"San Marino","San Marino","countryCapital"
 "Saudi Arabia","Riyadh","countryCapital"
 "Senegal","Dakar","countryCapital"
 "Seychelles","Victoria","countryCapital"
