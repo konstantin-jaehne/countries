@@ -54,7 +54,6 @@
 "Federated States of Micronesia","Palikir","countryCapital"
 "Fiji","Suva","countryCapital"
 "Finland","Helsinki","countryCapital"
-"France","Paris","countryCapital"
 "Gabon","Libreville","countryCapital"
 "Gambia","Banjul","countryCapital"
 "Georgia","Tbilisi","countryCapital"
