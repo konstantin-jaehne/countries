@@ -152,7 +152,6 @@
 "Tajikistan","Dushanbe","countryCapital"
 "Tanzania","Dodoma","countryCapital"
 "Thailand","Bangkok","countryCapital"
-"Togo","Lomé","countryCapital"
 "Tonga","Nukuʻalofa","countryCapital"
 "Trinidad and Tobago","Port of Spain","countryCapital"
 "Tunisia","Tunis","countryCapital"
