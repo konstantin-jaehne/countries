@@ -137,7 +137,6 @@
 "Slovakia","Bratislava","countryCapital"
 "Slovenia","Ljubljana","countryCapital"
 "Solomon Islands","Honiara","countryCapital"
-"Somalia","Mogadishu","countryCapital"
 "South Africa","Pretoria","countryCapital"
 "Spain","Madrid","countryCapital"
 "Sri Lanka","Sri Jayawardenapura Kotte","countryCapital"
