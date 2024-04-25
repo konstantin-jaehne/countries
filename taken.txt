@@ -9,7 +9,6 @@
 "Austria","Vienna","countryCapital"
 "Bahamas","Nassau","countryCapital"
 "Bahrain","Manama","countryCapital"
-"Bangladesh","Dhaka","countryCapital"
 "Barbados","Bridgetown","countryCapital"
 "Belarus","Minsk","countryCapital"
 "Belgium","Brussels","countryCapital"
