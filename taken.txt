@@ -144,7 +144,6 @@
 "Thailand","Bangkok","countryCapital"
 "Trinidad and Tobago","Port of Spain","countryCapital"
 "Tunisia","Tunis","countryCapital"
-"Turkey","Ankara","countryCapital"
 "Turkmenistan","Ashgabat","countryCapital"
 "Tuvalu","Funafuti","countryCapital"
 "Uganda","Kampala","countryCapital"
