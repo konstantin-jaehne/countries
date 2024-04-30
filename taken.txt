@@ -106,7 +106,6 @@
 "Nicaragua","Managua","countryCapital"
 "Niger","Niamey","countryCapital"
 "Nigeria","Abuja","countryCapital"
-"North Korea","Pyongyang","countryCapital"
 "Oman","Muscat","countryCapital"
 "Pakistan","Islamabad","countryCapital"
 "Palestine","Jerusalem","countryCapital"
