@@ -33,7 +33,6 @@
 "Czech Republic","Prague","countryCapital"
 "Côte d'Ivoire","Yamoussoukro","countryCapital"
 "Democratic Republic of the Congo","Kinshasa","countryCapital"
-"Denmark","Copenhagen","countryCapital"
 "Dominica","Roseau","countryCapital"
 "Dominican Republic","Santo Domingo","countryCapital"
 "East Timor (Timor-Leste)","Dili","countryCapital"
