@@ -63,7 +63,6 @@
 "Ireland","Dublin","countryCapital"
 "Israel","Jerusalem","countryCapital"
 "Italy","Rome","countryCapital"
-"Jamaica","Kingston","countryCapital"
 "Japan","Tokyo","countryCapital"
 "Jordan","Amman","countryCapital"
 "Kenya","Nairobi","countryCapital"
