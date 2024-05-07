@@ -65,7 +65,6 @@
 "Italy","Rome","countryCapital"
 "Japan","Tokyo","countryCapital"
 "Jordan","Amman","countryCapital"
-"Kenya","Nairobi","countryCapital"
 "Kiribati","Tarawa","countryCapital"
 "Kosovo","Pristina","countryCapital"
 "Kuwait","Kuwait City","countryCapital"
