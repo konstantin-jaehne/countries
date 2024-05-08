@@ -117,7 +117,6 @@
 "Saudi Arabia","Riyadh","countryCapital"
 "Senegal","Dakar","countryCapital"
 "Seychelles","Victoria","countryCapital"
-"Sierra Leone","Freetown","countryCapital"
 "Singapore","Singapore","countryCapital"
 "Slovakia","Bratislava","countryCapital"
 "Slovenia","Ljubljana","countryCapital"
