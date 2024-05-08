@@ -99,7 +99,6 @@
 "Nicaragua","Managua","countryCapital"
 "Niger","Niamey","countryCapital"
 "Nigeria","Abuja","countryCapital"
-"Oman","Muscat","countryCapital"
 "Pakistan","Islamabad","countryCapital"
 "Palestine","Jerusalem","countryCapital"
 "Panama","Panama City","countryCapital"
