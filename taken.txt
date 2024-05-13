@@ -110,7 +110,6 @@
 "Republic of the Congo","Brazzaville","countryCapital"
 "Romania","Bucharest","countryCapital"
 "Rwanda","Kigali","countryCapital"
-"Saint Lucia","Castries","countryCapital"
 "Saint Vincent and the Grenadines","Kingstown","countryCapital"
 "Saudi Arabia","Riyadh","countryCapital"
 "Senegal","Dakar","countryCapital"
