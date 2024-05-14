@@ -122,7 +122,6 @@
 "Syria","Damascus","countryCapital"
 "Tajikistan","Dushanbe","countryCapital"
 "Tanzania","Dodoma","countryCapital"
-"Thailand","Bangkok","countryCapital"
 "Trinidad and Tobago","Port of Spain","countryCapital"
 "Tunisia","Tunis","countryCapital"
 "Turkmenistan","Ashgabat","countryCapital"
