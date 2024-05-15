@@ -116,7 +116,6 @@
 "Solomon Islands","Honiara","countryCapital"
 "South Africa","Pretoria","countryCapital"
 "Spain","Madrid","countryCapital"
-"Sri Lanka","Sri Jayawardenapura Kotte","countryCapital"
 "Sudan","Khartoum","countryCapital"
 "Switzerland","Bern","countryCapital"
 "Syria","Damascus","countryCapital"
