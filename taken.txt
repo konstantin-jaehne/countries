@@ -125,7 +125,6 @@
 "Turkmenistan","Ashgabat","countryCapital"
 "Tuvalu","Funafuti","countryCapital"
 "Uganda","Kampala","countryCapital"
-"Ukraine","Kiev","countryCapital"
 "United Kingdom; England","London","countryCapital"
 "United States","Washington, D.C.","countryCapital"
 "Vanuatu","Port Vila","countryCapital"
