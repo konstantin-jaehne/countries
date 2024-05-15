@@ -2,7 +2,6 @@
 "Algeria","Algiers","countryCapital"
 "Andorra","Andorra la Vella","countryCapital"
 "Angola","Luanda","countryCapital"
-"Argentina","Buenos Aires","countryCapital"
 "Armenia","Yerevan","countryCapital"
 "Austria","Vienna","countryCapital"
 "Bahamas","Nassau","countryCapital"
