@@ -115,7 +115,6 @@
 "Spain","Madrid","countryCapital"
 "Sudan","Khartoum","countryCapital"
 "Switzerland","Bern","countryCapital"
-"Syria","Damascus","countryCapital"
 "Tajikistan","Dushanbe","countryCapital"
 "Tanzania","Dodoma","countryCapital"
 "Trinidad and Tobago","Port of Spain","countryCapital"
