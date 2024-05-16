@@ -11,7 +11,6 @@
 "Belize","Belmopan","countryCapital"
 "Benin","Porto-Novo","countryCapital"
 "Bhutan","Thimphu","countryCapital"
-"Botswana","Gaborone","countryCapital"
 "Brunei","Bandar Seri Begawan","countryCapital"
 "Bulgaria","Sofia","countryCapital"
 "Burundi","Bujumbura","countryCapital"
