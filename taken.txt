@@ -3,7 +3,6 @@
 "Andorra","Andorra la Vella","countryCapital"
 "Angola","Luanda","countryCapital"
 "Armenia","Yerevan","countryCapital"
-"Austria","Vienna","countryCapital"
 "Bahamas","Nassau","countryCapital"
 "Barbados","Bridgetown","countryCapital"
 "Belarus","Minsk","countryCapital"
