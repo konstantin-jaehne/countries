@@ -68,7 +68,6 @@
 "Malawi","Lilongwe","countryCapital"
 "Malaysia","Kuala Lumpur","countryCapital"
 "Maldives","Malé","countryCapital"
-"Mali","Bamako","countryCapital"
 "Malta","Valletta","countryCapital"
 "Marshall Islands","Majuro","countryCapital"
 "Mauritania","Nouakchott","countryCapital"
