@@ -119,6 +119,5 @@
 "United States","Washington, D.C.","countryCapital"
 "Vanuatu","Port Vila","countryCapital"
 "Vatican City","Vatican City","countryCapital"
-"Vietnam","Hanoi","countryCapital"
 "Zambia","Lusaka","countryCapital"
 "Zimbabwe","Harare","countryCapital"
