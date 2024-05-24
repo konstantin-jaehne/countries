@@ -19,7 +19,6 @@
 "Chile","Santiago","countryCapital"
 "China","Beijing","countryCapital"
 "Colombia","Bogotá","countryCapital"
-"Croatia","Zagreb","countryCapital"
 "Cuba","Havana","countryCapital"
 "Czech Republic","Prague","countryCapital"
 "Côte d'Ivoire","Yamoussoukro","countryCapital"
