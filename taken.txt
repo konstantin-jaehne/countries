@@ -109,7 +109,6 @@
 "Tanzania","Dodoma","countryCapital"
 "Trinidad and Tobago","Port of Spain","countryCapital"
 "Tunisia","Tunis","countryCapital"
-"Turkmenistan","Ashgabat","countryCapital"
 "Tuvalu","Funafuti","countryCapital"
 "Uganda","Kampala","countryCapital"
 "United Kingdom; England","London","countryCapital"
