@@ -57,7 +57,6 @@
 "Kiribati","Tarawa","countryCapital"
 "Kosovo","Pristina","countryCapital"
 "Kuwait","Kuwait City","countryCapital"
-"Kyrgyzstan","Bishkek","countryCapital"
 "Lesotho","Maseru","countryCapital"
 "Liberia","Monrovia","countryCapital"
 "Liechtenstein","Vaduz","countryCapital"
