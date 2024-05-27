@@ -102,7 +102,6 @@
 "Solomon Islands","Honiara","countryCapital"
 "South Africa","Pretoria","countryCapital"
 "Spain","Madrid","countryCapital"
-"Sudan","Khartoum","countryCapital"
 "Switzerland","Bern","countryCapital"
 "Tajikistan","Dushanbe","countryCapital"
 "Tanzania","Dodoma","countryCapital"
