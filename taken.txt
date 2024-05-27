@@ -20,7 +20,6 @@
 "China","Beijing","countryCapital"
 "Colombia","Bogotá","countryCapital"
 "Cuba","Havana","countryCapital"
-"Czech Republic","Prague","countryCapital"
 "Côte d'Ivoire","Yamoussoukro","countryCapital"
 "Democratic Republic of the Congo","Kinshasa","countryCapital"
 "Dominica","Roseau","countryCapital"
