@@ -9,7 +9,6 @@
 "Benin","Porto-Novo","countryCapital"
 "Bhutan","Thimphu","countryCapital"
 "Brunei","Bandar Seri Begawan","countryCapital"
-"Bulgaria","Sofia","countryCapital"
 "Burundi","Bujumbura","countryCapital"
 "Cameroon","Yaoundé","countryCapital"
 "Canada","Ottawa","countryCapital"
