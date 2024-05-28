@@ -48,7 +48,6 @@
 "Israel","Jerusalem","countryCapital"
 "Italy","Rome","countryCapital"
 "Japan","Tokyo","countryCapital"
-"Jordan","Amman","countryCapital"
 "Kiribati","Tarawa","countryCapital"
 "Kosovo","Pristina","countryCapital"
 "Kuwait","Kuwait City","countryCapital"
