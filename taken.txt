@@ -85,7 +85,6 @@
 "Poland","Warsaw","countryCapital"
 "Qatar","Doha","countryCapital"
 "Republic of China (Taiwan)","Taipei","countryCapital"
-"Republic of the Congo","Brazzaville","countryCapital"
 "Romania","Bucharest","countryCapital"
 "Rwanda","Kigali","countryCapital"
 "Saint Vincent and the Grenadines","Kingstown","countryCapital"
