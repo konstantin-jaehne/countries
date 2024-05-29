@@ -52,7 +52,6 @@
 "Kuwait","Kuwait City","countryCapital"
 "Lesotho","Maseru","countryCapital"
 "Liberia","Monrovia","countryCapital"
-"Liechtenstein","Vaduz","countryCapital"
 "Lithuania","Vilnius","countryCapital"
 "Luxembourg","Luxembourg","countryCapital"
 "Macedonia","Skopje","countryCapital"
