@@ -2,7 +2,6 @@
 "Algeria","Algiers","countryCapital"
 "Angola","Luanda","countryCapital"
 "Armenia","Yerevan","countryCapital"
-"Bahamas","Nassau","countryCapital"
 "Barbados","Bridgetown","countryCapital"
 "Belarus","Minsk","countryCapital"
 "Belgium","Brussels","countryCapital"
